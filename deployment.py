@@ -7,10 +7,15 @@ import pandas as pd
 now = datetime.now()
 print("EXECUTION STARTED ON ", now.strftime("%d-%B-%Y"), "at", now.strftime("%H:%M:%S"), "\n")
 
-# URLs
-basic_url = "https://www.autoscout24.com/lst/?sort=standard&desc=0&ustate=N%2CU&size=20&page="
-page_num = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20]
-url_extension = "&atype=C&recommended_sorting_based_id=675ba481-a475-4485-8ce6-9d0181dc17b9&"
+# Reading Essential data from website.txt
+f_website = open("website.txt", "r")
+f_website_content = f_website.readlines()
+
+basic_url = f_website_content[0].split("page=")[0] + "page=" # First half of URL
+url_extension = f_website_content[0].split("page=1")[1] # Second half of URL
+
+page_num = list(range(1, int(f_website_content[1])+1)) # List containing page numbers
+
 
 page_url = basic_url + str(page_num[0]) + url_extension # Creating URL of the page
 
@@ -31,7 +36,7 @@ print("Search id Successuffly extracted on", now.strftime("%d-%B-%Y"), "at", now
 now = datetime.now()
 print("URL EXTRACTION STARTED ON ", now.strftime("%d-%B-%Y"), "at", now.strftime("%H:%M:%S"))
 
-all_urls = open("urls.txt", "w")
+f_all_urls = open("urls.txt", "w")
 
 for p in page_num:
 
@@ -47,24 +52,24 @@ for p in page_num:
 
         final_url = "https://www.autoscout24.com" + link_url + "?cldtidx=1&cldtsrc=listPage&searchId=" + str(sid) # Complete Address of the car
 
-        all_urls.write(final_url + "\n") # Writing results to a file
+        f_all_urls.write(final_url + "\n") # Writing results to a file
 
-    print("Page ", p)
+    print("Completed pages ", p, "out of ", page_num[-1])
 
-all_urls.close()
+f_all_urls.close()
 
 now = datetime.now()
 print("URL EXTRACTION COMPLETE  ON", now.strftime("%d-%B-%Y"), "at", now.strftime("%H:%M:%S"), "\n")
 
-# #####################################
-# # EXTRACTING ALL FEATURES FROM URLS #
-# #####################################
+#####################################
+# EXTRACTING ALL FEATURES FROM URLS #
+#####################################
 
 now = datetime.now()
 print("STARTING FEATURE EXTRACTION",  now.strftime("%d-%B-%Y"), "at", now.strftime("%H:%M:%S"))
 
-all_urls = open("urls.txt", "r")
-content_all_urls = all_urls.read() # Reading content form the file
+f_all_urls = open("urls.txt", "r")
+content_all_urls = f_all_urls.read() # Reading content form the file
 url_items = content_all_urls.split("\n") # Splitting into different urls by line ending
 url_items.pop(-1) # Removing last line(because it is blank)
 
@@ -126,8 +131,8 @@ print("SUCCESSFULLY CREATED SET OF UNIQUE FEATURES AT ",now.strftime("%d-%B-%Y")
 # SCRAPPING DATA #
 ##################
 
-all_urls = open("urls.txt", "r") # File Object for the urls file
-content_all_urls = all_urls.read() # Reading content form the file
+f_all_urls = open("urls.txt", "r") # File Object for the urls file
+content_all_urls = f_all_urls.read() # Reading content form the file
 url_items = content_all_urls.split("\n") # Splitting into different urls by line ending
 url_items.pop(-1) # Removing last line(because it is blank)
 
