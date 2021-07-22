@@ -111,7 +111,6 @@ for page_url in url_items:
         price = ""
 
     # EXTRACTING VEHICLE NAME AND VARIANT
-
     # parent object for name and variant
     try:
         parent_obj = parsed_code.find("div", class_="cldt-headline")
@@ -194,7 +193,6 @@ for page_url in url_items:
 
     # writing values in the file
     if (len(page_attribute_features) == len(page_attributes)):
-
         for i in range(0, len(page_attributes)):
             f_attributes_data.write(str(page_attributes[i]) + " : " + str(page_attribute_features[i] + "\n"))
     else:
@@ -207,3 +205,61 @@ f_attributes_data.close()
 
 now = datetime.now()
 print("DATA SCRAPPING COMPLETED ON", now.strftime("%d-%B-%Y"), "at", now.strftime("%H:%M:%S"), "\n")
+
+#####################
+# CREATING CSV FILE #
+#####################
+
+f_car_details = open("car_details.txt", "r")
+f_content = f_car_details.read()
+car_details = f_content.split("\n")
+car_details.pop(-1)
+
+footer_text = "You can obtain more information on the official fuel consumption and official specific CO2 emissions of new passenger vehicles from the guideline on fuel consumption and CO2 emissions of new passenger vehicles. This guideline is available free of charge at all dealerships and from Deutsche Automobil Treuhand GmbH at www.dat.de."
+
+unique_attributes = [] # List to hold attributes
+
+
+# Loop to extract attributes from text file
+for detail in car_details:
+
+    if "https" in detail:
+        pass
+
+    if ((("https" in detail) == False) & (" : " in detail)):
+        unique_attributes.append((detail.split(" : ")[0]))
+
+unique_attributes = set(unique_attributes) # set of unique attributes
+
+final_dict = {} # Dictionary to hold attributes and their values for all cars
+
+# Loop to initialize dictionary
+for x in unique_attributes:
+    final_dict[x] = []
+
+# Loop to extract data from text file and populate final_dict
+for i in range(0, len(car_details)):
+
+    # Checking if the current line is a link
+    if "https" in car_details[i]:
+        my_dict = {}
+
+    # Checking if the the current line is not a link
+    if ((("https" in car_details[i]) == False) & (" : " in car_details[i])):
+        my_dict[car_details[i].split(" : ")[0]] = car_details[i].split(" : ")[1]
+
+    # checking if it is the end of file (and also if the next line is a link)
+    if i < (len(car_details) - 2):
+        # checking if the next line is a link
+        if "https" in car_details[i+1]:
+            # Loop to populate fianl_dict with my_dict
+            for attribute in unique_attributes:
+                if attribute in my_dict.keys():
+                    final_dict[attribute].append(my_dict[attribute])
+                else:
+                    final_dict[attribute].append(None)
+
+
+df = pd.DataFrame(final_dict)
+
+df.to_csv("car_details.csv", index=False)
