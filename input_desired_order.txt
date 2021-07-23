@@ -1,0 +1,45 @@
+name
+Make
+variant
+price
+mileage
+Type
+Model
+Body
+Fuel
+Other Fuel Types
+CO2 Emission
+Emission Label
+Emission Class
+horse power
+Displacement
+Cylinders
+Warranty
+Previous Owners
+first registration
+First Registration
+Consumption
+consumption_country
+consumption_city
+Electricity consumption
+Gearing Type
+Gears
+Nr. of Seats
+Nr. of Doors
+Paint Type
+Body Color Original
+Body Color
+Upholstery
+Inspection new
+Next Inspection
+Last Service Date
+Full Service
+Last Timing Belt Service Date
+Perm. GVW
+Drive chain
+Model Code
+Weight
+Non-smoking Vehicle
+Country version
+Offer Number
+url_address

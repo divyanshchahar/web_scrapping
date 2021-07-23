@@ -1638,36 +1638,37 @@ ConsumptionYou can obtain more information on the official fuel consumption and 
 CO2 EmissionYou can obtain more information on the official fuel consumption and official specific CO2 emissions of new passenger vehicles from the guideline on fuel consumption and CO2 emissions of new passenger vehicles. This guideline is available free of charge at all dealerships and from Deutsche Automobil Treuhand GmbH at www.dat.de. : 154 g/km (comb)
 Emission Class : Euro 3
 Emission Label : 3 (Yellow)
-https://www.autoscout24.com/offers/opel-corsa-c-1-2-comfort-automatik-klima-radio-cd-gasoline-blue-05549b0d-a783-450a-aef4-d02055366d6d?cldtidx=1&cldtsrc=listPage&searchId=1964176808
-name : Opel Corsa
-variant : C 1,2 Comfort Automatik Klima Radio/CD
-price : € 1,290.-
-mileage : 145000
-first registration : 03/2001
-horse power : 75
+https://www.autoscout24.com/offers/fiat-seicento-0-9-sx-39ps-ganzjahresreifen-hu-neu-gasoline-green-17ae43e7-bd97-41d6-b3ca-06bc565975ca?cldtidx=1&cldtsrc=listPage&searchId=1964176808
+name : Fiat Seicento
+variant : 0.9 SX 39PS Ganzjahresreifen HU NEU
+price : € 1,299.-
+mileage : 52980
+first registration : 11/1998
+horse power : 39
 Type : Used
 Previous Owners : 3
-Next Inspection : 05/2022
+Inspection new : Yes
 Full Service : 
-Make : Opel
-Model : Corsa
-First Registration : 2001
-Body Color : Blue
-Paint Type : Metallic
-Body Color Original : Nocturnoblau Mi2
-Upholstery : Cloth
+Make : Fiat
+Model : Seicento
+Offer Number : 341-A
+First Registration : 1998
+Body Color : Green
+Body Color Original : Hellgrün
+Upholstery : Cloth, Other
 Body : Compact
 Nr. of Doors : 2
 Nr. of Seats : 5
+Model Code : 4136/348
 Country version : Germany
-Gearing Type : Automatic
-Displacement : 1,199 cc
-Fuel : Regular/Benzine 91
-ConsumptionYou can obtain more information on the official fuel consumption and official specific CO2 emissions of new passenger vehicles from the guideline on fuel consumption and CO2 emissions of new passenger vehicles. This guideline is available free of charge at all dealerships and from Deutsche Automobil Treuhand GmbH at www.dat.de. : 6.2 l/100 km (comb)
-8 l/100 km (city)
-5.2 l/100 km (country)
-CO2 EmissionYou can obtain more information on the official fuel consumption and official specific CO2 emissions of new passenger vehicles from the guideline on fuel consumption and CO2 emissions of new passenger vehicles. This guideline is available free of charge at all dealerships and from Deutsche Automobil Treuhand GmbH at www.dat.de. : 149 g/km (comb)
-Emission Class : Euro 3
+Gearing Type : Manual
+Displacement : 899 cc
+Fuel : Super E10 95
+ConsumptionYou can obtain more information on the official fuel consumption and official specific CO2 emissions of new passenger vehicles from the guideline on fuel consumption and CO2 emissions of new passenger vehicles. This guideline is available free of charge at all dealerships and from Deutsche Automobil Treuhand GmbH at www.dat.de. : 6.1 l/100 km (comb)
+7.9 l/100 km (city)
+5.1 l/100 km (country)
+CO2 EmissionYou can obtain more information on the official fuel consumption and official specific CO2 emissions of new passenger vehicles from the guideline on fuel consumption and CO2 emissions of new passenger vehicles. This guideline is available free of charge at all dealerships and from Deutsche Automobil Treuhand GmbH at www.dat.de. : 145 g/km (comb)
+Emission Class : Euro 2
 Emission Label : 4 (Green)
 https://www.autoscout24.com/offers/volkswagen-polo-1-9-sdi-base-1eig-goede-staat-export-of-handel-diesel-black-15b0b626-079b-44c2-97fb-6294be86eced?cldtidx=1&cldtsrc=listPage&searchId=1964176808
 name : Volkswagen Polo
@@ -1818,6 +1819,31 @@ ConsumptionYou can obtain more information on the official fuel consumption and 
 6.9 l/100 km (country)
 CO2 EmissionYou can obtain more information on the official fuel consumption and official specific CO2 emissions of new passenger vehicles from the guideline on fuel consumption and CO2 emissions of new passenger vehicles. This guideline is available free of charge at all dealerships and from Deutsche Automobil Treuhand GmbH at www.dat.de. : 196 g/km (comb)
 Emission Class : Euro 3
+https://www.autoscout24.com/offers/mercedes-benz-c-180-limousine-automatik-getriebeschaden-gasoline-gold-72557bb2-7c0f-4a78-9497-49a0f4d7a7a9?cldtidx=1&cldtsrc=listPage&searchId=1964176808
+name : Mercedes-Benz C 180
+variant : Limousine Automatik Getriebeschaden!
+price : € 1,490.-
+mileage : 95400
+first registration : 04/2002
+horse power : 129
+Type : Used
+Make : Mercedes-Benz
+Model : C 180
+Offer Number : d22052
+First Registration : 2002
+Body Color : Gold
+Body Color Original : Gold
+Upholstery : Cloth, Black
+Body : Sedans
+Nr. of Doors : 5
+Nr. of Seats : 5
+Model Code : 0710/478
+Country version : Germany
+Gearing Type : Automatic
+Displacement : 1,995 cc
+Fuel : Super 95 / Super Plus 98 / Super E10 95 / Super Plus E10 98
+Other Fuel Types : Super Plus 98
+Emission Label : 1 (No sticker)
 https://www.autoscout24.com/offers/volkswagen-polo-iii-lim-edition-2-hd-pano-dach-gasoline-blue-53c16463-1f5a-43a8-84c3-9e059c9803ea?cldtidx=1&cldtsrc=listPage&searchId=1964176808
 name : Volkswagen Polo
 variant : III Lim. Edition 2.Hd/Pano-Dach
@@ -2088,32 +2114,6 @@ ConsumptionYou can obtain more information on the official fuel consumption and 
 CO2 EmissionYou can obtain more information on the official fuel consumption and official specific CO2 emissions of new passenger vehicles from the guideline on fuel consumption and CO2 emissions of new passenger vehicles. This guideline is available free of charge at all dealerships and from Deutsche Automobil Treuhand GmbH at www.dat.de. : 218 g/km (comb)
 Emission Class : Euro 3
 Emission Label : 4 (Green)
-https://www.autoscout24.com/offers/renault-laguna-ii-grandtour-2-0-privilege-gasoline-grey-5cac61a3-9dd2-4b98-9cb1-d58324464138?cldtidx=1&cldtsrc=listPage&searchId=1964176808
-name : Renault Laguna
-variant : II Grandtour 2.0 Privilege
-price : € 1,540.-
-mileage : 159990
-first registration : 01/2006
-horse power : 135
-Type : Used
-Previous Owners : 3
-Make : Renault
-Model : Laguna
-Offer Number : 48851vs
-First Registration : 2006
-Body Color : Grey
-Body Color Original : platin grau
-Upholstery : Cloth, Grey
-Body : Station wagon
-Nr. of Doors : 4
-Nr. of Seats : 5
-Model Code : 3333/AEM
-Country version : Germany
-Gearing Type : Manual
-Displacement : 1,998 cc
-Fuel : Regular/Benzine E10 91
-Emission Class : Euro 4
-Emission Label : 4 (Green)
 https://www.autoscout24.com/offers/opel-tigra-alu-allwetter-sportpaket-elektrische-fh-gasoline-blue-701f95c4-7232-4263-8479-ad462e6db426?cldtidx=1&cldtsrc=listPage&searchId=1964176808
 name : Opel Tigra
 variant : ALU/Allwetter/Sportpaket/elektrische FH
@@ -2230,35 +2230,6 @@ ConsumptionYou can obtain more information on the official fuel consumption and 
 6.6 l/100 km (country)
 CO2 EmissionYou can obtain more information on the official fuel consumption and official specific CO2 emissions of new passenger vehicles from the guideline on fuel consumption and CO2 emissions of new passenger vehicles. This guideline is available free of charge at all dealerships and from Deutsche Automobil Treuhand GmbH at www.dat.de. : 202 g/km (comb)
 Emission Class : Euro 3
-Emission Label : 4 (Green)
-https://www.autoscout24.com/offers/opel-corsa-1-0-12v-klima-servo-tuev-05-2022-gasoline-silver-6c03ee61-f3c2-40fe-ac53-422073cfdf20?cldtidx=1&cldtsrc=listPage&searchId=1964176808
-name : Opel Corsa
-variant : 1.0 12V Klima Servo Tüv 05/2022
-price : € 1,650.-
-mileage : 112000
-first registration : 03/2003
-horse power : 58
-Type : Used
-Previous Owners : 2
-Next Inspection : 05/2022
-Make : Opel
-Model : Corsa
-Offer Number : 4102858111
-First Registration : 2003
-Body Color : Silver
-Paint Type : Metallic
-Upholstery : Cloth, Black
-Body : Sedans
-Nr. of Doors : 2
-Nr. of Seats : 5
-Gearing Type : Manual
-Displacement : 973 cc
-Fuel : Gasoline
-ConsumptionYou can obtain more information on the official fuel consumption and official specific CO2 emissions of new passenger vehicles from the guideline on fuel consumption and CO2 emissions of new passenger vehicles. This guideline is available free of charge at all dealerships and from Deutsche Automobil Treuhand GmbH at www.dat.de. : 5.6 l/100 km (comb)
-7.2 l/100 km (city)
-4.7 l/100 km (country)
-CO2 EmissionYou can obtain more information on the official fuel consumption and official specific CO2 emissions of new passenger vehicles from the guideline on fuel consumption and CO2 emissions of new passenger vehicles. This guideline is available free of charge at all dealerships and from Deutsche Automobil Treuhand GmbH at www.dat.de. : 135 g/km (comb)
-Emission Class : Euro 4
 Emission Label : 4 (Green)
 https://www.autoscout24.com/offers/smart-fortwo-cabrio-passion-automatik-leder-navi-klima-gasoline-silver-a6b5361f-c509-45f5-9252-c74779883709?cldtidx=1&cldtsrc=listPage&searchId=1964176808
 name : smart forTwo
@@ -2446,6 +2417,41 @@ ConsumptionYou can obtain more information on the official fuel consumption and 
 6.5 l/100 km (country)
 CO2 EmissionYou can obtain more information on the official fuel consumption and official specific CO2 emissions of new passenger vehicles from the guideline on fuel consumption and CO2 emissions of new passenger vehicles. This guideline is available free of charge at all dealerships and from Deutsche Automobil Treuhand GmbH at www.dat.de. : 179 g/km (comb)
 Emission Class : Euro 4
+https://www.autoscout24.com/offers/mazda-6-141ps-exclusive-klima-eph-gasoline-blue-0b71ce01-14e1-4ab5-9e22-56a851d9216e?cldtidx=1&cldtsrc=listPage&searchId=1964176808
+name : Mazda 6
+variant : 141PS Exclusive KLIMA+EPH
+price : € 1,790.-
+mileage : 146510
+first registration : 03/2005
+horse power : 141
+Type : Used
+Previous Owners : 1
+Next Inspection : 04/2022
+Non-smoking Vehicle : 
+Make : Mazda
+Model : 6
+Offer Number : 3177_64022
+First Registration : 2005
+Body Color : Blue
+Paint Type : Metallic
+Body Color Original : stratoblau met.
+Upholstery : Cloth, Black
+Body : Sedans
+Nr. of Doors : 5
+Nr. of Seats : 5
+Country version : Germany
+Gearing Type : Manual
+Gears : 5
+Displacement : 1,999 cc
+Weight : 1,375 kg
+Fuel : Super E10 95 / Super 95
+Other Fuel Types : Super 95
+ConsumptionYou can obtain more information on the official fuel consumption and official specific CO2 emissions of new passenger vehicles from the guideline on fuel consumption and CO2 emissions of new passenger vehicles. This guideline is available free of charge at all dealerships and from Deutsche Automobil Treuhand GmbH at www.dat.de. : 6.5 l/100 km (comb)
+7 l/100 km (city)
+5.9 l/100 km (country)
+CO2 EmissionYou can obtain more information on the official fuel consumption and official specific CO2 emissions of new passenger vehicles from the guideline on fuel consumption and CO2 emissions of new passenger vehicles. This guideline is available free of charge at all dealerships and from Deutsche Automobil Treuhand GmbH at www.dat.de. : 192 g/km (comb)
+Emission Class : Euro 4
+Emission Label : 4 (Green)
 https://www.autoscout24.com/offers/opel-astra-2-2-caravan-elegance-gasoline-red-0986145e-884e-42c4-88e9-73920a12e7d9?cldtidx=1&cldtsrc=listPage&searchId=1964176808
 name : Opel Astra
 variant : 2.2 Caravan Elegance
@@ -2735,30 +2741,6 @@ Drive chain : Front
 Fuel : Regular/Benzine 91
 Emission Class : Euro 4
 Emission Label : 4 (Green)
-https://www.autoscout24.com/offers/opel-signum-cosmo-leder-lpg-gasanlage-gasoline-silver-78208085-253c-46c2-9ecc-111c1fc06170?cldtidx=1&cldtsrc=listPage&searchId=1964176808
-name : Opel Signum
-variant : Cosmo Leder LPG-GASANLAGE
-price : € 1,975.-
-mileage : 181000
-first registration : 06/2003
-horse power : 155
-Type : Used
-Next Inspection : 08/2021
-Make : Opel
-Model : Signum
-First Registration : 2003
-Body Color : Silver
-Paint Type : Metallic
-Body Color Original : Starsilber III M2
-Upholstery : Full leather, Black
-Body : Station wagon
-Nr. of Doors : 4
-Nr. of Seats : 5
-Gearing Type : Manual
-Displacement : 2,198 cc
-Fuel : Super 95
-Emission Class : Euro 4
-Emission Label : 4 (Green)
 https://www.autoscout24.com/offers/volkswagen-bora-2-0-var-automatik-glasschibedach-ahk-klima-gasoline-blue-e1bd0baf-cbd5-45f3-9138-d40f46796950?cldtidx=1&cldtsrc=listPage&searchId=1964176808
 name : Volkswagen Bora
 variant : 2.0 Var. AUTOMATIK GLASSCHIBEDACH AHK KLIMA
@@ -3004,38 +2986,6 @@ Fuel : Super 95 / Super Plus 98 / Super E10 95 / Super Plus E10 98
 Other Fuel Types : Super Plus 98
 Emission Class : Euro 4
 Emission Label : 4 (Green)
-https://www.autoscout24.com/offers/mazda-5-2-0-diesel-anhaengerkupplung-diesel-blue-e6741473-4913-41fd-bb34-279b95a0b9db?cldtidx=1&cldtsrc=listPage&searchId=1964176808
-name : Mazda 5
-variant : 2.0 Diesel Anhängerkupplung
-price : € 1,990.-
-mileage : 225000
-first registration : 08/2007
-horse power : 143
-Type : Used
-Make : Mazda
-Model : 5
-Offer Number : 2014_59365
-First Registration : 2007
-Body Color : Blue
-Paint Type : Metallic
-Body Color Original : haitiblau met
-Upholstery : Cloth, Black
-Body : Van
-Nr. of Doors : 5
-Nr. of Seats : 7
-Model Code : 7118/AAT
-Country version : Germany
-Gearing Type : Manual
-Gears : 6
-Displacement : 1,998 cc
-Weight : 1,610 kg
-Fuel : Diesel (Particulate Filter)
-ConsumptionYou can obtain more information on the official fuel consumption and official specific CO2 emissions of new passenger vehicles from the guideline on fuel consumption and CO2 emissions of new passenger vehicles. This guideline is available free of charge at all dealerships and from Deutsche Automobil Treuhand GmbH at www.dat.de. : 6.3 l/100 km (comb)
-7.3 l/100 km (city)
-5.7 l/100 km (country)
-CO2 EmissionYou can obtain more information on the official fuel consumption and official specific CO2 emissions of new passenger vehicles from the guideline on fuel consumption and CO2 emissions of new passenger vehicles. This guideline is available free of charge at all dealerships and from Deutsche Automobil Treuhand GmbH at www.dat.de. : 173 g/km (comb)
-Emission Class : Euro 4
-Emission Label : 4 (Green)
 https://www.autoscout24.com/offers/seat-ibiza-sport-edition-8-fach-bereift-aus-1-hand-gasoline-grey-2bf62f50-6a75-476f-9ad4-159a8fd6a55c?cldtidx=1&cldtsrc=listPage&searchId=1964176808
 name : SEAT Ibiza
 variant : Sport Edition 8-FACH BEREIFT AUS 1. HAND
@@ -3195,34 +3145,6 @@ ConsumptionYou can obtain more information on the official fuel consumption and 
 CO2 EmissionYou can obtain more information on the official fuel consumption and official specific CO2 emissions of new passenger vehicles from the guideline on fuel consumption and CO2 emissions of new passenger vehicles. This guideline is available free of charge at all dealerships and from Deutsche Automobil Treuhand GmbH at www.dat.de. : 152 g/km (comb)
 Emission Class : Euro 4
 Emission Label : 4 (Green)
-https://www.autoscout24.com/offers/renault-twingo-1-2-authentique-handel-export-gasoline-black-2cf000a7-4bc4-45b2-9d14-4b7a6f80d3e1?cldtidx=1&cldtsrc=listPage&searchId=1964176808
-name : Renault Twingo
-variant : 1.2 Authentique +HANDEL/EXPORT+
-price : € 2,000.-
-mileage : 159102
-first registration : 05/2008
-horse power : 58
-Type : Used
-Previous Owners : 2
-Make : Renault
-Model : Twingo
-Offer Number : EBF_501314
-First Registration : 2008
-Body Color : Black
-Paint Type : Metallic
-Upholstery : Cloth, Grey
-Body : Compact
-Nr. of Doors : 3
-Nr. of Seats : 4
-Model Code : 3333/APM
-Gearing Type : Manual
-Displacement : 1,149 cc
-Cylinders : 4
-Drive chain : Front
-Fuel : Regular/Benzine 91
-CO2 EmissionYou can obtain more information on the official fuel consumption and official specific CO2 emissions of new passenger vehicles from the guideline on fuel consumption and CO2 emissions of new passenger vehicles. This guideline is available free of charge at all dealerships and from Deutsche Automobil Treuhand GmbH at www.dat.de. : 0 g/km (comb)
-Emission Class : Euro 4
-Emission Label : 4 (Green)
 https://www.autoscout24.com/offers/seat-altea-1-9-tdi-passion-diesel-grey-dd051856-1460-4041-acdc-19b4e6d54ea9?cldtidx=1&cldtsrc=listPage&searchId=1964176808
 name : SEAT Altea
 variant : 1.9 TDi Passion
@@ -3255,33 +3177,6 @@ ConsumptionYou can obtain more information on the official fuel consumption and 
 4.5 l/100 km (country)
 CO2 EmissionYou can obtain more information on the official fuel consumption and official specific CO2 emissions of new passenger vehicles from the guideline on fuel consumption and CO2 emissions of new passenger vehicles. This guideline is available free of charge at all dealerships and from Deutsche Automobil Treuhand GmbH at www.dat.de. : 146 g/km (comb)
 Emission Class : Euro 4
-https://www.autoscout24.com/offers/renault-clio-1-2-rip-curl-handel-export-gasoline-black-a3c26a17-b71b-4573-90d1-d2c74873a686?cldtidx=1&cldtsrc=listPage&searchId=1964176808
-name : Renault Clio
-variant : 1.2 Rip Curl +HANDEL/EXPORT+
-price : € 2,100.-
-mileage : 135178
-first registration : 02/2009
-horse power : 75
-Type : Used
-Previous Owners : 8
-Make : Renault
-Model : Clio
-Offer Number : EBF_501308
-First Registration : 2009
-Body Color : Black
-Paint Type : Metallic
-Upholstery : Cloth, Grey
-Body : Compact
-Nr. of Doors : 3
-Nr. of Seats : 5
-Model Code : 3333/AAO
-Gearing Type : Manual
-Displacement : 1,149 cc
-Cylinders : 4
-Fuel : Regular/Benzine 91
-CO2 EmissionYou can obtain more information on the official fuel consumption and official specific CO2 emissions of new passenger vehicles from the guideline on fuel consumption and CO2 emissions of new passenger vehicles. This guideline is available free of charge at all dealerships and from Deutsche Automobil Treuhand GmbH at www.dat.de. : 0 g/km (comb)
-Emission Class : Euro 4
-Emission Label : 4 (Green)
 https://www.autoscout24.com/offers/ford-s-max-1-8-tdci-trend-clim-auto-accoudoir-att-rem-diesel-grey-0a251633-822d-4d50-a8a3-3a0b3e4a4aae?cldtidx=1&cldtsrc=listPage&searchId=1964176808
 name : Ford S-Max
 variant : 1.8 TDCi Trend CLIM AUTO, ACCOUDOIR, ATT REM
@@ -4208,35 +4103,6 @@ ConsumptionYou can obtain more information on the official fuel consumption and 
 CO2 EmissionYou can obtain more information on the official fuel consumption and official specific CO2 emissions of new passenger vehicles from the guideline on fuel consumption and CO2 emissions of new passenger vehicles. This guideline is available free of charge at all dealerships and from Deutsche Automobil Treuhand GmbH at www.dat.de. : 179 g/km (comb)
 Emission Class : Euro 4
 Emission Label : 4 (Green)
-https://www.autoscout24.com/offers/seat-ibiza-1-2-stylance-style-tuev-bis-04-2022-gasoline-white-3371805e-afad-4b00-a50f-d9f7ceecba97?cldtidx=1&cldtsrc=listPage&searchId=1964176808
-name : SEAT Ibiza
-variant : 1.2 Stylance/Style- TÜV bis 04.2022
-price : € 2,499.-
-mileage : 169000
-first registration : 03/2009
-horse power : 69
-Type : Used
-Next Inspection : 04/2022
-Full Service : 
-Make : SEAT
-Model : Ibiza
-Offer Number : 12250
-First Registration : 2009
-Body Color : White
-Body Color Original : weiß
-Body : Compact
-Nr. of Doors : 3
-Nr. of Seats : 5
-Model Code : 7593/ADN
-Country version : Germany
-Gearing Type : Manual
-Gears : 5
-Displacement : 1,198 cc
-Cylinders : 3
-Fuel : Super 95 (Particulate Filter)
-CO2 EmissionYou can obtain more information on the official fuel consumption and official specific CO2 emissions of new passenger vehicles from the guideline on fuel consumption and CO2 emissions of new passenger vehicles. This guideline is available free of charge at all dealerships and from Deutsche Automobil Treuhand GmbH at www.dat.de. : 0 g/km (comb)
-Emission Class : Euro 4
-Emission Label : 4 (Green)
 https://www.autoscout24.com/offers/mitsubishi-space-star-1-6-98ps-invite-1600-klimaanlage-usb-gasoline-silver-76c5ce76-2606-4644-8c6b-89cc16bec23d?cldtidx=1&cldtsrc=listPage&searchId=1964176808
 name : Mitsubishi Space Star
 variant : 1.6 98PS Invite 1600 Klimaanlage USB
@@ -4266,34 +4132,6 @@ ConsumptionYou can obtain more information on the official fuel consumption and 
 9.3 l/100 km (city)
 6 l/100 km (country)
 CO2 EmissionYou can obtain more information on the official fuel consumption and official specific CO2 emissions of new passenger vehicles from the guideline on fuel consumption and CO2 emissions of new passenger vehicles. This guideline is available free of charge at all dealerships and from Deutsche Automobil Treuhand GmbH at www.dat.de. : 171 g/km (comb)
-Emission Class : Euro 4
-Emission Label : 4 (Green)
-https://www.autoscout24.com/offers/mercedes-benz-a-150-avantgarde-handel-export-gasoline-grey-8f4d567e-c08f-466a-a03d-9d9cb83208b1?cldtidx=1&cldtsrc=listPage&searchId=1964176808
-name : Mercedes-Benz A 150
-variant : Avantgarde +HANDEL/EXPORT+
-price : € 2,500.-
-mileage : 210956
-first registration : 10/2005
-horse power : 95
-Type : Used
-Previous Owners : 1
-Next Inspection : 10/2022
-Make : Mercedes-Benz
-Model : A 150
-Offer Number : E_508173
-First Registration : 2005
-Body Color : Grey
-Paint Type : Metallic
-Upholstery : Cloth, Grey
-Body : Sedans
-Nr. of Doors : 5
-Nr. of Seats : 5
-Model Code : 0999/301
-Gearing Type : Automatic
-Displacement : 1,498 cc
-Cylinders : 4
-Fuel : Regular/Benzine 91
-CO2 EmissionYou can obtain more information on the official fuel consumption and official specific CO2 emissions of new passenger vehicles from the guideline on fuel consumption and CO2 emissions of new passenger vehicles. This guideline is available free of charge at all dealerships and from Deutsche Automobil Treuhand GmbH at www.dat.de. : 0 g/km (comb)
 Emission Class : Euro 4
 Emission Label : 4 (Green)
 https://www.autoscout24.com/offers/volkswagen-passat-klima-elektrische-fh-zv-airb-fahrtuechtig-gasoline-green-8f7fa0ba-eef3-4a5d-a33c-5a01ebc3e1e7?cldtidx=1&cldtsrc=listPage&searchId=1964176808
@@ -4394,34 +4232,6 @@ ConsumptionYou can obtain more information on the official fuel consumption and 
 8.5 l/100 km (city)
 5.2 l/100 km (country)
 CO2 EmissionYou can obtain more information on the official fuel consumption and official specific CO2 emissions of new passenger vehicles from the guideline on fuel consumption and CO2 emissions of new passenger vehicles. This guideline is available free of charge at all dealerships and from Deutsche Automobil Treuhand GmbH at www.dat.de. : 152 g/km (comb)
-Emission Class : Euro 4
-Emission Label : 4 (Green)
-https://www.autoscout24.com/offers/ford-fiesta-1-3-ambiente-klima-8-fach-bereift-gasoline-yellow-177220b5-5976-4bdc-a176-14584f0cb6d1?cldtidx=1&cldtsrc=listPage&searchId=1964176808
-name : Ford Fiesta
-variant : 1.3 Ambiente (Klima+8-fach bereift)
-price : € 2,640.-
-mileage : 115780
-first registration : 03/2006
-horse power : 60
-Type : Used
-Previous Owners : 1
-Next Inspection : 03/2023
-Make : Ford
-Model : Fiesta
-Offer Number : 25013
-First Registration : 2006
-Body Color : Yellow
-Paint Type : Metallic
-Body Color Original : exotic gelb
-Upholstery : Cloth, Grey
-Body : Compact
-Nr. of Doors : 2
-Nr. of Seats : 5
-Model Code : 8566/ACJ
-Country version : Germany
-Gearing Type : Manual
-Displacement : 1,299 cc
-Fuel : Regular/Benzine E10 91
 Emission Class : Euro 4
 Emission Label : 4 (Green)
 https://www.autoscout24.com/offers/ford-c-max-2-0-fun-automatic-ahk-navi-sitzheizung-gasoline-silver-6af1cbdf-7063-4b3b-8a6c-38409c85bcee?cldtidx=1&cldtsrc=listPage&searchId=1964176808
@@ -4545,39 +4355,6 @@ ConsumptionYou can obtain more information on the official fuel consumption and 
 3.3 l/100 km (country)
 CO2 EmissionYou can obtain more information on the official fuel consumption and official specific CO2 emissions of new passenger vehicles from the guideline on fuel consumption and CO2 emissions of new passenger vehicles. This guideline is available free of charge at all dealerships and from Deutsche Automobil Treuhand GmbH at www.dat.de. : 99 g/km (comb)
 Emission Class : Euro 4
-https://www.autoscout24.com/offers/chrysler-pt-cruiser-crd-2-2-touring-pdc-lm-tempo-klima-diesel-blue-6adc85d9-fdfb-4d99-94a0-96a08f5fbd75?cldtidx=1&cldtsrc=listPage&searchId=1964176808
-name : Chrysler PT Cruiser
-variant : CRD 2.2 Touring PDC LM Tempo Klima
-price : € 2,790.-
-mileage : 188218
-first registration : 08/2005
-horse power : 150
-Type : Used
-Previous Owners : 2
-Inspection new : Yes
-Full Service : 
-Make : Chrysler
-Model : PT Cruiser
-Offer Number : T336973
-First Registration : 2005
-Body Color : Blue
-Paint Type : Metallic
-Body Color Original : blau
-Upholstery : Cloth, Beige
-Body : Station wagon
-Nr. of Doors : 4
-Nr. of Seats : 5
-Model Code : 1004/AAK
-Country version : Germany
-Gearing Type : Manual
-Displacement : 2,148 cc
-Fuel : Diesel
-ConsumptionYou can obtain more information on the official fuel consumption and official specific CO2 emissions of new passenger vehicles from the guideline on fuel consumption and CO2 emissions of new passenger vehicles. This guideline is available free of charge at all dealerships and from Deutsche Automobil Treuhand GmbH at www.dat.de. : 6.9 l/100 km (comb)
-10.1 l/100 km (city)
-5.6 l/100 km (country)
-CO2 EmissionYou can obtain more information on the official fuel consumption and official specific CO2 emissions of new passenger vehicles from the guideline on fuel consumption and CO2 emissions of new passenger vehicles. This guideline is available free of charge at all dealerships and from Deutsche Automobil Treuhand GmbH at www.dat.de. : 177 g/km (comb)
-Emission Class : Euro 4
-Emission Label : 4 (Green)
 https://www.autoscout24.com/offers/citroen-c2-1-4-hdi-vtr-radio-cd-mp3-diesel-red-c8739fa1-8bec-4790-a58d-93bb63b35b90?cldtidx=1&cldtsrc=listPage&searchId=1964176808
 name : Citroen C2
 variant : 1.4 HDi VTR RADIO CD, MP3
@@ -5051,37 +4828,6 @@ Cylinders : 5
 Fuel : Super 95
 CO2 EmissionYou can obtain more information on the official fuel consumption and official specific CO2 emissions of new passenger vehicles from the guideline on fuel consumption and CO2 emissions of new passenger vehicles. This guideline is available free of charge at all dealerships and from Deutsche Automobil Treuhand GmbH at www.dat.de. : 0 g/km (comb)
 Emission Class : Euro 4
-Emission Label : 4 (Green)
-https://www.autoscout24.com/offers/ford-focus-1-6-cdti-style-sitzheizung-tuev-06-2023-diesel-grey-dbad7c16-92b9-460e-b13f-db6420dd3247?cldtidx=1&cldtsrc=listPage&searchId=1964176808
-name : Ford Focus
-variant : 1.6 CDTI Style+ SITZHEIZUNG+TÜV 06 2023
-price : € 2,990.-
-mileage : 218450
-first registration : 05/2011
-horse power : 90
-Type : Used
-Previous Owners : 2
-Make : Ford
-Model : Focus
-Offer Number : 760 - FO
-First Registration : 2011
-Body Color : Grey
-Body Color Original : Royal-Grau
-Upholstery : Cloth, Black
-Body : Station wagon
-Nr. of Doors : 5
-Model Code : 8566/ABL
-Gearing Type : Manual
-Gears : 5
-Displacement : 1,560 cc
-Cylinders : 4
-Drive chain : Front
-Fuel : Diesel
-ConsumptionYou can obtain more information on the official fuel consumption and official specific CO2 emissions of new passenger vehicles from the guideline on fuel consumption and CO2 emissions of new passenger vehicles. This guideline is available free of charge at all dealerships and from Deutsche Automobil Treuhand GmbH at www.dat.de. : 4.7 l/100 km (comb)
-5.9 l/100 km (city)
-4 l/100 km (country)
-CO2 EmissionYou can obtain more information on the official fuel consumption and official specific CO2 emissions of new passenger vehicles from the guideline on fuel consumption and CO2 emissions of new passenger vehicles. This guideline is available free of charge at all dealerships and from Deutsche Automobil Treuhand GmbH at www.dat.de. : 125 g/km (comb)
-Emission Class : Euro 5
 Emission Label : 4 (Green)
 https://www.autoscout24.com/offers/fiat-ducato-1-9-280l-verkaufswagen-diesel-yellow-36dc88b1-e5d0-48f7-b3d0-80902fd93c5f?cldtidx=1&cldtsrc=listPage&searchId=1964176808
 name : Fiat
@@ -5633,6 +5379,31 @@ Fuel : Regular/Benzine 91
 CO2 EmissionYou can obtain more information on the official fuel consumption and official specific CO2 emissions of new passenger vehicles from the guideline on fuel consumption and CO2 emissions of new passenger vehicles. This guideline is available free of charge at all dealerships and from Deutsche Automobil Treuhand GmbH at www.dat.de. : 0 g/km (comb)
 Emission Class : Euro 4
 Emission Label : 4 (Green)
+https://www.autoscout24.com/offers/volkswagen-beetle-miami-webasto-klima-shz-sheft-tuev-01-23-diesel-silver-94b83fd0-e944-4710-8a0a-9b1d9287f9df?cldtidx=1&cldtsrc=listPage&searchId=1964176808
+name : Volkswagen Beetle
+variant : Miami Webasto Klima SHZ Sheft Tüv 01/23
+price : € 3,000.-
+mileage : 197000
+first registration : 09/2004
+horse power : 101
+Type : Used
+Previous Owners : 1
+Next Inspection : 01/2023
+Full Service : 
+Make : Volkswagen
+Model : Beetle
+First Registration : 2004
+Body Color : Silver
+Paint Type : Metallic
+Upholstery : Cloth, Grey
+Body : Sedans
+Nr. of Doors : 2
+Nr. of Seats : 4
+Gearing Type : Manual
+Displacement : 1,896 cc
+Fuel : Diesel
+Emission Class : Euro 3
+Emission Label : 4 (Green)
 https://www.autoscout24.com/offers/renault-clio-grandtour-luxe-1-6-16v-110-automatik-navi-gasoline-blue-88fa652a-3d6e-4257-9de0-20e6c043827a?cldtidx=1&cldtsrc=listPage&searchId=1964176808
 name : Renault Clio
 variant : Grandtour Luxe 1.6 16V 110 Automatik Navi
@@ -5691,39 +5462,6 @@ ConsumptionYou can obtain more information on the official fuel consumption and 
 4.6 l/100 km (country)
 CO2 EmissionYou can obtain more information on the official fuel consumption and official specific CO2 emissions of new passenger vehicles from the guideline on fuel consumption and CO2 emissions of new passenger vehicles. This guideline is available free of charge at all dealerships and from Deutsche Automobil Treuhand GmbH at www.dat.de. : 128 g/km (comb)
 Emission Class : Euro 4
-Emission Label : 4 (Green)
-https://www.autoscout24.com/offers/fiat-grande-punto-basis-1-2-5-tuerer-handel-export-gasoline-silver-eff4a1fd-e90c-4bad-871d-a10c3a7ae589?cldtidx=1&cldtsrc=listPage&searchId=1964176808
-name : Fiat Grande Punto
-variant : Basis 1.2 5-Türer +HANDEL/EXPORT+
-price : € 3,200.-
-mileage : 79625
-first registration : 03/2012
-horse power : 69
-Type : Used
-Previous Owners : 2
-Next Inspection : 07/2023
-Inspection new : Yes
-Non-smoking Vehicle : 
-Make : Fiat
-Model : Grande Punto
-Offer Number : E_507181
-First Registration : 2012
-Body Color : Silver
-Paint Type : Metallic
-Body Color Original : Grigio-Intellettuale
-Upholstery : Cloth, Grey
-Body : Sedans
-Nr. of Doors : 5
-Nr. of Seats : 5
-Model Code : 4136/ARC
-Gearing Type : Manual
-Gears : 5
-Displacement : 1,242 cc
-Cylinders : 4
-Drive chain : Front
-Fuel : Regular/Benzine 91
-CO2 EmissionYou can obtain more information on the official fuel consumption and official specific CO2 emissions of new passenger vehicles from the guideline on fuel consumption and CO2 emissions of new passenger vehicles. This guideline is available free of charge at all dealerships and from Deutsche Automobil Treuhand GmbH at www.dat.de. : 0 g/km (comb)
-Emission Class : Euro 5
 Emission Label : 4 (Green)
 https://www.autoscout24.com/offers/peugeot-207-1-6-hdi-urban-99g-fap-diesel-grey-79b84a30-b863-44cf-9de6-1ca19824c201?cldtidx=1&cldtsrc=listPage&searchId=1964176808
 name : Peugeot 207
@@ -6031,6 +5769,37 @@ ConsumptionYou can obtain more information on the official fuel consumption and 
 CO2 EmissionYou can obtain more information on the official fuel consumption and official specific CO2 emissions of new passenger vehicles from the guideline on fuel consumption and CO2 emissions of new passenger vehicles. This guideline is available free of charge at all dealerships and from Deutsche Automobil Treuhand GmbH at www.dat.de. : 159 g/km (comb)
 Emission Class : Euro 4
 Emission Label : 4 (Green)
+https://www.autoscout24.com/offers/volkswagen-golf-iv-tuev-neu-zahnriemen-neu-gasoline-red-4b3482b3-d7e6-4b25-9b4d-ed6b02d42b7b?cldtidx=1&cldtsrc=listPage&searchId=1964176808
+name : Volkswagen Golf
+variant : IV * TÜV NEU * Zahnriemen NEU *
+price : € 3,450.-
+mileage : 121316
+first registration : 12/1997
+horse power : 75
+Type : Used
+Next Inspection : 06/2023
+Inspection new : Yes
+Full Service : 
+Non-smoking Vehicle : 
+Make : Volkswagen
+Model : Golf
+Offer Number : 022375
+First Registration : 1997
+Body Color : Red
+Upholstery : Grey
+Body : Sedans
+Nr. of Doors : 4
+Nr. of Seats : 5
+Model Code : 0603/419
+Gearing Type : Manual
+Gears : 5
+Displacement : 1,390 cc
+Cylinders : 4
+Drive chain : Front
+Fuel : Regular/Benzine 91
+ConsumptionYou can obtain more information on the official fuel consumption and official specific CO2 emissions of new passenger vehicles from the guideline on fuel consumption and CO2 emissions of new passenger vehicles. This guideline is available free of charge at all dealerships and from Deutsche Automobil Treuhand GmbH at www.dat.de. : 0 l/100 km (comb)
+Emission Class : Euro 4
+Emission Label : 4 (Green)
 https://www.autoscout24.com/offers/hyundai-i30-cw-1-6-crdi-66-kw-style-diesel-grey-e6412941-355b-4880-b02b-ed1d851be54d?cldtidx=1&cldtsrc=listPage&searchId=1964176808
 name : Hyundai i30
 variant : CW 1.6 CRDi 66 kW Style
@@ -6307,36 +6076,72 @@ ConsumptionYou can obtain more information on the official fuel consumption and 
 CO2 EmissionYou can obtain more information on the official fuel consumption and official specific CO2 emissions of new passenger vehicles from the guideline on fuel consumption and CO2 emissions of new passenger vehicles. This guideline is available free of charge at all dealerships and from Deutsche Automobil Treuhand GmbH at www.dat.de. : 130 g/km (comb)
 Emission Class : Euro 4
 Emission Label : 4 (Green)
-https://www.autoscout24.com/offers/citroen-jumpy-27-1-6-hdi-90-diesel-white-ebf512fa-eb50-47ac-afa5-49507440c673?cldtidx=1&cldtsrc=listPage&searchId=1964176808
-name : Citroen Jumpy
-variant : 27 1.6 HDI 90
+https://www.autoscout24.com/offers/kia-picanto-picanto-1-1-ex-klima-sitzheizung-tuev-neu-gasoline-blue-bc1247c0-6729-4d9f-b65e-b880786b8679?cldtidx=1&cldtsrc=listPage&searchId=1964176808
+name : Kia Picanto
+variant : Picanto 1.1 EX Klima Sitzheizung Tüv NEU
 price : € 3,499.-
-mileage : 162000
-first registration : 01/2009
-horse power : 90
+mileage : 83000
+first registration : 06/2006
+horse power : 65
 Type : Used
-Next Inspection : 11/2022
-Make : Citroen
-Model : Jumpy
-Offer Number : KaiRae06.07
-First Registration : 2009
-Body Color : White
-Upholstery : Cloth
-Body : Van
-Nr. of Doors : 4
-Nr. of Seats : 3
-Model Code : 3001/AEU
+Inspection new : Yes
+Make : Kia
+Model : Picanto
+Offer Number : 568
+First Registration : 2006
+Body Color : Blue
+Paint Type : Metallic
+Body Color Original : KOBALTBLAU
+Upholstery : Cloth, Grey
+Body : Compact
+Nr. of Doors : 5
+Nr. of Seats : 4
+Model Code : 8253/AAP
+Country version : Germany
 Gearing Type : Manual
 Gears : 5
-Displacement : 1,560 cc
+Displacement : 1,086 cc
 Cylinders : 4
-Weight : 1,736 kg
 Drive chain : Front
-Fuel : Diesel
-ConsumptionYou can obtain more information on the official fuel consumption and official specific CO2 emissions of new passenger vehicles from the guideline on fuel consumption and CO2 emissions of new passenger vehicles. This guideline is available free of charge at all dealerships and from Deutsche Automobil Treuhand GmbH at www.dat.de. : 7.2 l/100 km (comb)
-8.4 l/100 km (city)
-6.6 l/100 km (country)
-CO2 EmissionYou can obtain more information on the official fuel consumption and official specific CO2 emissions of new passenger vehicles from the guideline on fuel consumption and CO2 emissions of new passenger vehicles. This guideline is available free of charge at all dealerships and from Deutsche Automobil Treuhand GmbH at www.dat.de. : 191 g/km (comb)
+Fuel : Super 95
+ConsumptionYou can obtain more information on the official fuel consumption and official specific CO2 emissions of new passenger vehicles from the guideline on fuel consumption and CO2 emissions of new passenger vehicles. This guideline is available free of charge at all dealerships and from Deutsche Automobil Treuhand GmbH at www.dat.de. : 4.9 l/100 km (comb)
+6.6 l/100 km (city)
+4.6 l/100 km (country)
+CO2 EmissionYou can obtain more information on the official fuel consumption and official specific CO2 emissions of new passenger vehicles from the guideline on fuel consumption and CO2 emissions of new passenger vehicles. This guideline is available free of charge at all dealerships and from Deutsche Automobil Treuhand GmbH at www.dat.de. : 116 g/km (comb)
+Emission Class : Euro 4
+Emission Label : 4 (Green)
+https://www.autoscout24.com/offers/peugeot-206-1-4-hdi-basis-tempomat-klima-2hd-allwetter-diesel-grey-d2ebaf53-8625-4149-b055-9e4528b36429?cldtidx=1&cldtsrc=listPage&searchId=1964176808
+name : Peugeot 206
+variant : + 1.4 HDi Basis TEMPOMAT+KLIMA+2Hd+ALLWETTER
+price : € 3,499.-
+mileage : 139450
+first registration : 01/2012
+horse power : 68
+Type : Used
+Previous Owners : 2
+Next Inspection : 05/2022
+Make : Peugeot
+Model : 206
+Offer Number : 950-EX
+First Registration : 2012
+Body Color : Grey
+Body Color Original : Sharkgrau
+Upholstery : Cloth, Black
+Body : Sedans
+Nr. of Doors : 5
+Nr. of Seats : 5
+Model Code : 3003/AJB
+Gearing Type : Manual
+Gears : 5
+Displacement : 1,398 cc
+Cylinders : 4
+Weight : 1,102 kg
+Fuel : Super 95
+ConsumptionYou can obtain more information on the official fuel consumption and official specific CO2 emissions of new passenger vehicles from the guideline on fuel consumption and CO2 emissions of new passenger vehicles. This guideline is available free of charge at all dealerships and from Deutsche Automobil Treuhand GmbH at www.dat.de. : 4.3 l/100 km (comb)
+5.4 l/100 km (city)
+3.7 l/100 km (country)
+CO2 EmissionYou can obtain more information on the official fuel consumption and official specific CO2 emissions of new passenger vehicles from the guideline on fuel consumption and CO2 emissions of new passenger vehicles. This guideline is available free of charge at all dealerships and from Deutsche Automobil Treuhand GmbH at www.dat.de. : 112 g/km (comb)
+Emission Class : Euro 5
 Emission Label : 4 (Green)
 https://www.autoscout24.com/offers/kia-picanto-1-1-attract-servo-allwetterreifen-63000-km-gasoline-yellow-24f443d1-26e6-4ead-8ed4-67e4b7f02d35?cldtidx=1&cldtsrc=listPage&searchId=1964176808
 name : Kia Picanto
@@ -6614,40 +6419,6 @@ ConsumptionYou can obtain more information on the official fuel consumption and 
 12.5 l/100 km (city)
 6.8 l/100 km (country)
 CO2 EmissionYou can obtain more information on the official fuel consumption and official specific CO2 emissions of new passenger vehicles from the guideline on fuel consumption and CO2 emissions of new passenger vehicles. This guideline is available free of charge at all dealerships and from Deutsche Automobil Treuhand GmbH at www.dat.de. : 212 g/km (comb)
-https://www.autoscout24.com/offers/volkswagen-passat-variant-2-0-tdi-highline-leder-klima-diesel-brown-6d2ae5e0-097b-45b3-94cb-bbfda4098029?cldtidx=1&cldtsrc=listPage&searchId=1964176808
-name : Volkswagen Passat Variant
-variant : 2.0 TDI Highline Leder Klima
-price : € 3,550.-
-mileage : 267000
-first registration : 12/2006
-horse power : 140
-Type : Used
-Previous Owners : 1
-Next Inspection : 03/2022
-Non-smoking Vehicle : 
-Make : Volkswagen
-Model : Passat Variant
-Offer Number : 6381
-First Registration : 2006
-Body Color : Brown
-Paint Type : Metallic
-Body Color Original : mocca-anthrazit perleffekt
-Upholstery : Full leather
-Body : Station wagon
-Nr. of Doors : 5
-Nr. of Seats : 5
-Country version : Germany
-Gearing Type : Manual
-Gears : 6
-Displacement : 1,968 cc
-Cylinders : 4
-Drive chain : Front
-Fuel : Diesel (Particulate Filter)
-ConsumptionYou can obtain more information on the official fuel consumption and official specific CO2 emissions of new passenger vehicles from the guideline on fuel consumption and CO2 emissions of new passenger vehicles. This guideline is available free of charge at all dealerships and from Deutsche Automobil Treuhand GmbH at www.dat.de. : 6 l/100 km (comb)
-8 l/100 km (city)
-5 l/100 km (country)
-CO2 EmissionYou can obtain more information on the official fuel consumption and official specific CO2 emissions of new passenger vehicles from the guideline on fuel consumption and CO2 emissions of new passenger vehicles. This guideline is available free of charge at all dealerships and from Deutsche Automobil Treuhand GmbH at www.dat.de. : 162 g/km (comb)
-Emission Class : Euro 4
 https://www.autoscout24.com/offers/hyundai-getz-1-1-basis-gasoline-black-42bc302c-7ce9-4912-90ae-dfa2f10380a9?cldtidx=1&cldtsrc=listPage&searchId=1964176808
 name : Hyundai Getz
 variant : 1.1 Basis
@@ -7481,71 +7252,6 @@ ConsumptionYou can obtain more information on the official fuel consumption and 
 4.5 l/100 km (country)
 CO2 EmissionYou can obtain more information on the official fuel consumption and official specific CO2 emissions of new passenger vehicles from the guideline on fuel consumption and CO2 emissions of new passenger vehicles. This guideline is available free of charge at all dealerships and from Deutsche Automobil Treuhand GmbH at www.dat.de. : 122 g/km (comb)
 Emission Class : Euro 5
-https://www.autoscout24.com/offers/dacia-logan-mcv-1-6-laureate-ii-7-sitzer-77-kw-gasoline-violet-f9ad4124-503d-4c2a-8f0f-e524745ae39a?cldtidx=1&cldtsrc=listPage&searchId=1964176808
-name : Dacia Logan
-variant : MCV 1,6 Laureate II ** 7 Sitzer ** 77 KW
-price : € 3,900.-
-mileage : 211322
-first registration : 02/2011
-horse power : 105
-Type : Used
-Previous Owners : 2
-Next Inspection : 12/2021
-Last Service Date : 12/2019
-Full Service : 
-Non-smoking Vehicle : 
-Last Timing Belt Service Date : 12/2016
-Make : Dacia
-Model : Logan
-Offer Number : K-210401-010
-First Registration : 2011
-Body Color : Violet
-Paint Type : Metallic
-Body Color Original : ROUGE DE FEU
-Upholstery : Cloth
-Body : Station wagon
-Nr. of Doors : 5
-Nr. of Seats : 7
-Model Code : 8212/ABL
-Gearing Type : Manual
-Gears : 5
-Displacement : 1,598 cc
-Cylinders : 4
-Weight : 1,280 kg
-Drive chain : Front
-Fuel : Super 95
-ConsumptionYou can obtain more information on the official fuel consumption and official specific CO2 emissions of new passenger vehicles from the guideline on fuel consumption and CO2 emissions of new passenger vehicles. This guideline is available free of charge at all dealerships and from Deutsche Automobil Treuhand GmbH at www.dat.de. : 7.1 l/100 km (comb)
-9.7 l/100 km (city)
-5.8 l/100 km (country)
-CO2 EmissionYou can obtain more information on the official fuel consumption and official specific CO2 emissions of new passenger vehicles from the guideline on fuel consumption and CO2 emissions of new passenger vehicles. This guideline is available free of charge at all dealerships and from Deutsche Automobil Treuhand GmbH at www.dat.de. : 168 g/km (comb)
-Emission Class : Euro 5
-Emission Label : 4 (Green)
-https://www.autoscout24.com/offers/dodge-journey-sxt-nav-kamera-ahk-tv-automatik-diesel-black-086cf018-ff51-415a-bb39-97d04471ac03?cldtidx=1&cldtsrc=listPage&searchId=1964176808
-name : Dodge Journey
-variant : SXT|NAV|KAMERA|AHK|TV|AUTOMATIK
-price : € 3,900.-
-mileage : 182000
-first registration : 04/2010
-horse power : 140
-Type : Used
-Next Inspection : 07/2023
-Make : Dodge
-Model : Journey
-First Registration : 2010
-Body Color : Black
-Paint Type : Metallic
-Body Color Original : Brilliant Black
-Upholstery : Cloth, Other
-Body : Van
-Nr. of Doors : 4
-Gearing Type : Automatic
-Displacement : 1,968 cc
-Fuel : Diesel
-ConsumptionYou can obtain more information on the official fuel consumption and official specific CO2 emissions of new passenger vehicles from the guideline on fuel consumption and CO2 emissions of new passenger vehicles. This guideline is available free of charge at all dealerships and from Deutsche Automobil Treuhand GmbH at www.dat.de. : 6.7 l/100 km (comb)
-8.7 l/100 km (city)
-5.5 l/100 km (country)
-CO2 EmissionYou can obtain more information on the official fuel consumption and official specific CO2 emissions of new passenger vehicles from the guideline on fuel consumption and CO2 emissions of new passenger vehicles. This guideline is available free of charge at all dealerships and from Deutsche Automobil Treuhand GmbH at www.dat.de. : 176 g/km (comb)
-Emission Label : 4 (Green)
 https://www.autoscout24.com/offers/hyundai-i10-1-1-classic-edition-plus-allwetterreifen-cd-gasoline-yellow-d17649fc-5336-4a4d-8b97-a7a765de2cb8?cldtidx=1&cldtsrc=listPage&searchId=1964176808
 name : Hyundai i10
 variant : 1.1 Classic Edition Plus ALLWETTERREIFEN*CD*
@@ -7806,6 +7512,31 @@ ConsumptionYou can obtain more information on the official fuel consumption and 
 3.9 l/100 km (country)
 CO2 EmissionYou can obtain more information on the official fuel consumption and official specific CO2 emissions of new passenger vehicles from the guideline on fuel consumption and CO2 emissions of new passenger vehicles. This guideline is available free of charge at all dealerships and from Deutsche Automobil Treuhand GmbH at www.dat.de. : 107 g/km (comb)
 Emission Class : Euro 6
+Emission Label : 4 (Green)
+https://www.autoscout24.com/offers/bmw-118-i-m-paket-klimaa-isofix-teilleder-fin-ab-69-gasoline-black-b2269f60-f02f-4fd9-ae18-447e9b26f6bd?cldtidx=1&cldtsrc=listPage&searchId=1964176808
+name : BMW 118
+variant : i*M Paket*Klimaa.*Isofix*Teilleder*Fin ab 69€
+price : € 3,980.-
+mileage : 139204
+first registration : 12/2008
+horse power : 143
+Type : Used
+Next Inspection : 01/2022
+Make : BMW
+Model : 118
+Offer Number : 49
+First Registration : 2008
+Body Color : Black
+Paint Type : Metallic
+Body Color Original : BLACK SAPPHIRE METALLIC
+Upholstery : Part leather, Black
+Body : Compact
+Nr. of Doors : 2
+Nr. of Seats : 4
+Gearing Type : Manual
+Displacement : 1,995 cc
+Fuel : Gasoline
+Emission Class : Euro 4
 Emission Label : 4 (Green)
 https://www.autoscout24.com/offers/toyota-auris-sol-gasoline-black-5035357a-1aeb-4618-967f-b755a70aeb4c?cldtidx=1&cldtsrc=listPage&searchId=1964176808
 name : Toyota Auris
@@ -8894,36 +8625,6 @@ ConsumptionYou can obtain more information on the official fuel consumption and 
 CO2 EmissionYou can obtain more information on the official fuel consumption and official specific CO2 emissions of new passenger vehicles from the guideline on fuel consumption and CO2 emissions of new passenger vehicles. This guideline is available free of charge at all dealerships and from Deutsche Automobil Treuhand GmbH at www.dat.de. : 107 g/km (comb)
 Emission Class : Euro 6
 Emission Label : 4 (Green)
-https://www.autoscout24.com/offers/ford-fiesta-1-0-sync-edition-handel-export-gasoline-silver-b027e9c5-85de-4221-8f6a-9665a26e8d38?cldtidx=1&cldtsrc=listPage&searchId=1964176808
-name : Ford Fiesta
-variant : 1.0 SYNC Edition +HANDEL/EXPORT+
-price : € 4,300.-
-mileage : 150043
-first registration : 06/2015
-horse power : 65
-Type : Used
-Previous Owners : 2
-Next Inspection : 06/2022
-Make : Ford
-Model : Fiesta
-Offer Number : E_508124
-First Registration : 2015
-Body Color : Silver
-Paint Type : Metallic
-Body Color Original : Polar Silber
-Upholstery : Cloth, Grey
-Body : Compact
-Nr. of Doors : 3
-Nr. of Seats : 5
-Model Code : 8566/BGK
-Gearing Type : Manual
-Gears : 5
-Displacement : 998 cc
-Cylinders : 3
-Fuel : Regular/Benzine 91
-CO2 EmissionYou can obtain more information on the official fuel consumption and official specific CO2 emissions of new passenger vehicles from the guideline on fuel consumption and CO2 emissions of new passenger vehicles. This guideline is available free of charge at all dealerships and from Deutsche Automobil Treuhand GmbH at www.dat.de. : 0 g/km (comb)
-Emission Class : Euro 6
-Emission Label : 4 (Green)
 https://www.autoscout24.com/offers/mazda-2-1-6td-dynamic-2-hd-klimaautom-shz-tuev-ne-diesel-black-5abf20e1-6995-4a66-b3fb-a5ab67e64567?cldtidx=1&cldtsrc=listPage&searchId=1964176808
 name : Mazda 2
 variant : 1.6TD Dynamic .2.Hd. Klimaautom. SHZ TÜV ne
@@ -9133,33 +8834,39 @@ ConsumptionYou can obtain more information on the official fuel consumption and 
 5.3 l/100 km (country)
 CO2 EmissionYou can obtain more information on the official fuel consumption and official specific CO2 emissions of new passenger vehicles from the guideline on fuel consumption and CO2 emissions of new passenger vehicles. This guideline is available free of charge at all dealerships and from Deutsche Automobil Treuhand GmbH at www.dat.de. : 154 g/km (comb)
 Emission Label : 4 (Green)
-https://www.autoscout24.com/offers/mercedes-benz-slk-230-cabrio-leder-gasoline-silver-313a0ae4-86dd-46c2-9fa1-2d09f430d665?cldtidx=1&cldtsrc=listPage&searchId=1964176808
-name : Mercedes-Benz SLK 230
-variant : *Cabrio*Leder*
+https://www.autoscout24.com/offers/mercedes-benz-e-320-cdi-elegance-automatik-leder-navi-xenon-pdc-diesel-blue-ff0949a9-920b-4eee-8595-6d88268a0cbe?cldtidx=1&cldtsrc=listPage&searchId=1964176808
+name : Mercedes-Benz E 320
+variant : CDI Elegance Automatik Leder Navi Xenon PDC
 price : € 4,450.-
-mileage : 227864
-first registration : 09/1996
-horse power : 193
+mileage : 350000
+first registration : 04/2005
+horse power : 204
 Type : Used
-Next Inspection : 06/2023
+Previous Owners : 1
+Next Inspection : 09/2022
 Non-smoking Vehicle : 
 Make : Mercedes-Benz
-Model : SLK 230
-Offer Number : 001353
-First Registration : 1996
-Body Color : Silver
-Paint Type : Metallic
-Upholstery : Full leather, Black
-Body : Convertible
-Nr. of Doors : 2
-Nr. of Seats : 2
-Model Code : 0710/338
-Gearing Type : Manual
-Displacement : 2,295 cc
+Model : E 320
+Offer Number : 5026
+First Registration : 2005
+Body Color : Blue
+Body Color Original : dunkelblau
+Upholstery : Full leather
+Body : Sedans
+Nr. of Doors : 4
+Nr. of Seats : 5
+Country version : Germany
+Gearing Type : Automatic
+Gears : 5
+Displacement : 3,222 cc
+Cylinders : 6
 Drive chain : Rear
-Fuel : Regular/Benzine 91
-ConsumptionYou can obtain more information on the official fuel consumption and official specific CO2 emissions of new passenger vehicles from the guideline on fuel consumption and CO2 emissions of new passenger vehicles. This guideline is available free of charge at all dealerships and from Deutsche Automobil Treuhand GmbH at www.dat.de. : 0 l/100 km (comb)
-Emission Label : 4 (Green)
+Fuel : Diesel (Particulate Filter)
+ConsumptionYou can obtain more information on the official fuel consumption and official specific CO2 emissions of new passenger vehicles from the guideline on fuel consumption and CO2 emissions of new passenger vehicles. This guideline is available free of charge at all dealerships and from Deutsche Automobil Treuhand GmbH at www.dat.de. : 6.9 l/100 km (comb)
+10.2 l/100 km (city)
+6.3 l/100 km (country)
+CO2 EmissionYou can obtain more information on the official fuel consumption and official specific CO2 emissions of new passenger vehicles from the guideline on fuel consumption and CO2 emissions of new passenger vehicles. This guideline is available free of charge at all dealerships and from Deutsche Automobil Treuhand GmbH at www.dat.de. : 183 g/km (comb)
+Emission Class : Euro 4
 https://www.autoscout24.com/offers/audi-a3-sportback-1-9-tdi-attraction-klima-pdc-tempomat-diesel-grey-4d635e59-1a34-4972-93ed-d390a6db96cb?cldtidx=1&cldtsrc=listPage&searchId=1964176808
 name : Audi A3
 variant : Sportback 1.9 TDI Attraction Klima PDC Tempomat
@@ -9453,38 +9160,6 @@ Fuel : Electricity (Particulate Filter)
 CO2 EmissionYou can obtain more information on the official fuel consumption and official specific CO2 emissions of new passenger vehicles from the guideline on fuel consumption and CO2 emissions of new passenger vehicles. This guideline is available free of charge at all dealerships and from Deutsche Automobil Treuhand GmbH at www.dat.de. : 0 g/km (comb)
 Emission Class : Euro 6d-TEMP
 Emission Label : 4 (Green)
-https://www.autoscout24.com/offers/renault-megane-1-6i-authentique-gasoline-grey-548a8267-462b-41ff-bfd6-d203960b931f?cldtidx=1&cldtsrc=listPage&searchId=1964176808
-name : Renault Megane
-variant : 1.6i Authentique
-price : € 4,500.-
-mileage : 56752
-first registration : 09/2009
-horse power : 101
-Type : Used
-Previous Owners : 1
-Last Service Date : 07/2021
-Full Service : 
-Make : Renault
-Model : Megane
-First Registration : 2009
-Body Color : Grey
-Upholstery : Cloth, Grey
-Body : Sedans
-Nr. of Doors : 5
-Nr. of Seats : 5
-Country version : Belgium
-Gearing Type : Manual
-Gears : 5
-Displacement : 1,598 cc
-Cylinders : 4
-Weight : 1,280 kg
-Drive chain : Front
-Fuel : Gasoline
-ConsumptionYou can obtain more information on the official fuel consumption and official specific CO2 emissions of new passenger vehicles from the guideline on fuel consumption and CO2 emissions of new passenger vehicles. This guideline is available free of charge at all dealerships and from Deutsche Automobil Treuhand GmbH at www.dat.de. : 6.8 l/100 km (comb)
-9.1 l/100 km (city)
-5.5 l/100 km (country)
-CO2 EmissionYou can obtain more information on the official fuel consumption and official specific CO2 emissions of new passenger vehicles from the guideline on fuel consumption and CO2 emissions of new passenger vehicles. This guideline is available free of charge at all dealerships and from Deutsche Automobil Treuhand GmbH at www.dat.de. : 159 g/km (comb)
-Emission Class : Euro 5
 https://www.autoscout24.com/offers/honda-civic-1-5-elektrisches-schiebedach-radio-servo-66-kw-black-8ac736b7-af98-41d1-817d-a50d3ed9ed15?cldtidx=1&cldtsrc=listPage&searchId=1964176808
 name : Honda Civic
 variant : 1.5 elektrisches Schiebedach Radio Servo 66 kW ...
@@ -9695,6 +9370,39 @@ ConsumptionYou can obtain more information on the official fuel consumption and 
 CO2 EmissionYou can obtain more information on the official fuel consumption and official specific CO2 emissions of new passenger vehicles from the guideline on fuel consumption and CO2 emissions of new passenger vehicles. This guideline is available free of charge at all dealerships and from Deutsche Automobil Treuhand GmbH at www.dat.de. : 142 g/km (comb)
 Emission Class : Euro 5
 Emission Label : 4 (Green)
+https://www.autoscout24.com/offers/seat-mii-reference-1-0-rdc-esp-seitenairb-met-trc-airb-ab-gasoline-blue-8408ef99-3be2-4128-aff8-60e9b3c13c11?cldtidx=1&cldtsrc=listPage&searchId=1964176808
+name : SEAT Mii
+variant : Reference 1.0 RDC ESP Seitenairb. met. TRC Airb AB
+price : € 4,780.-
+mileage : 66000
+first registration : 02/2016
+horse power : 60
+Type : Used
+Previous Owners : 1
+Make : SEAT
+Model : Mii
+Offer Number : 191
+First Registration : 2016
+Body Color : Blue
+Paint Type : Metallic
+Body Color Original : blue blueberry
+Upholstery : Cloth
+Body : Sedans
+Nr. of Doors : 3
+Nr. of Seats : 4
+Model Code : 7593/AGN
+Country version : Germany
+Gearing Type : Manual
+Gears : 5
+Displacement : 999 cc
+Cylinders : 3
+Drive chain : Front
+Fuel : Super 95
+ConsumptionYou can obtain more information on the official fuel consumption and official specific CO2 emissions of new passenger vehicles from the guideline on fuel consumption and CO2 emissions of new passenger vehicles. This guideline is available free of charge at all dealerships and from Deutsche Automobil Treuhand GmbH at www.dat.de. : 4.5 l/100 km (comb)
+5.6 l/100 km (city)
+3.9 l/100 km (country)
+CO2 EmissionYou can obtain more information on the official fuel consumption and official specific CO2 emissions of new passenger vehicles from the guideline on fuel consumption and CO2 emissions of new passenger vehicles. This guideline is available free of charge at all dealerships and from Deutsche Automobil Treuhand GmbH at www.dat.de. : 107 g/km (comb)
+Emission Class : Euro 6
 https://www.autoscout24.com/offers/peugeot-208-active-1-4-16v-vti-95-bluetooth-klima-alu-16-gasoline-red-75f5d011-caee-4241-9c7f-9e666f956e77?cldtidx=1&cldtsrc=listPage&searchId=1964176808
 name : Peugeot 208
 variant : Active 1.4 16V VTi 95 Bluetooth Klima ALU*16
@@ -9730,6 +9438,38 @@ ConsumptionYou can obtain more information on the official fuel consumption and 
 4.5 l/100 km (country)
 CO2 EmissionYou can obtain more information on the official fuel consumption and official specific CO2 emissions of new passenger vehicles from the guideline on fuel consumption and CO2 emissions of new passenger vehicles. This guideline is available free of charge at all dealerships and from Deutsche Automobil Treuhand GmbH at www.dat.de. : 133 g/km (comb)
 Emission Class : Euro 5
+https://www.autoscout24.com/offers/bmw-316-ti-compact-e46-leder-bi-xenon-el-gsd-2-hand-gasoline-blue-efada836-44a4-41bd-8846-08d74a4c9360?cldtidx=1&cldtsrc=listPage&searchId=1964176808
+name : BMW 316
+variant : ti Compact E46 Leder,Bi-Xenon,el.GSD,2.Hand
+price : € 4,780.-
+mileage : 130800
+first registration : 06/2002
+horse power : 116
+Type : Used
+Previous Owners : 2
+Inspection new : Yes
+Full Service : 
+Make : BMW
+Model : 316
+First Registration : 2002
+Body Color : Blue
+Paint Type : Metallic
+Body Color Original : Topasblau Metallic
+Upholstery : Part leather, Other
+Body : Coupe
+Nr. of Doors : 2
+Nr. of Seats : 5
+Model Code : 0005/716
+Country version : Germany
+Gearing Type : Manual
+Displacement : 1,796 cc
+Fuel : Gasoline
+ConsumptionYou can obtain more information on the official fuel consumption and official specific CO2 emissions of new passenger vehicles from the guideline on fuel consumption and CO2 emissions of new passenger vehicles. This guideline is available free of charge at all dealerships and from Deutsche Automobil Treuhand GmbH at www.dat.de. : 6.9 l/100 km (comb)
+9.7 l/100 km (city)
+5.3 l/100 km (country)
+CO2 EmissionYou can obtain more information on the official fuel consumption and official specific CO2 emissions of new passenger vehicles from the guideline on fuel consumption and CO2 emissions of new passenger vehicles. This guideline is available free of charge at all dealerships and from Deutsche Automobil Treuhand GmbH at www.dat.de. : 167 g/km (comb)
+Emission Class : Euro 4
+Emission Label : 4 (Green)
 https://www.autoscout24.com/offers/seat-ibiza-klima-zv-tempomat-el-fh-aussenspiegel-77-kw-gasoline-black-4c5a4e75-4240-41cf-a44b-b6fe07f46b51?cldtidx=1&cldtsrc=listPage&searchId=1964176808
 name : SEAT Ibiza
 variant : Klima ZV Tempomat el. FH + Außenspiegel 77 kW (...
@@ -9798,35 +9538,6 @@ ConsumptionYou can obtain more information on the official fuel consumption and 
 3.9 l/100 km (country)
 CO2 EmissionYou can obtain more information on the official fuel consumption and official specific CO2 emissions of new passenger vehicles from the guideline on fuel consumption and CO2 emissions of new passenger vehicles. This guideline is available free of charge at all dealerships and from Deutsche Automobil Treuhand GmbH at www.dat.de. : 102 g/km (comb)
 Emission Class : Euro 5
-https://www.autoscout24.com/offers/hyundai-i30-1-4-5t-1hand-klima-ahk-1-200-kg-parktronic-gasoline-red-bed2269a-cf19-4385-9abd-160168e313b6?cldtidx=1&cldtsrc=listPage&searchId=1964176808
-name : Hyundai i30
-variant : 1.4 5T 1Hand Klima AHK 1.200 kg - Parktronic
-price : € 4,790.-
-mileage : 107220
-first registration : 02/2009
-horse power : 109
-Type : Used
-Previous Owners : 1
-Make : Hyundai
-Model : i30
-Offer Number : 215-A
-First Registration : 2009
-Body Color : Red
-Body : Sedans
-Nr. of Doors : 5
-Nr. of Seats : 5
-Model Code : 0000/000
-Gearing Type : Manual
-Gears : 5
-Displacement : 1,396 cc
-Drive chain : Front
-Fuel : Super 95
-ConsumptionYou can obtain more information on the official fuel consumption and official specific CO2 emissions of new passenger vehicles from the guideline on fuel consumption and CO2 emissions of new passenger vehicles. This guideline is available free of charge at all dealerships and from Deutsche Automobil Treuhand GmbH at www.dat.de. : 6.1 l/100 km (comb)
-7.6 l/100 km (city)
-5.2 l/100 km (country)
-CO2 EmissionYou can obtain more information on the official fuel consumption and official specific CO2 emissions of new passenger vehicles from the guideline on fuel consumption and CO2 emissions of new passenger vehicles. This guideline is available free of charge at all dealerships and from Deutsche Automobil Treuhand GmbH at www.dat.de. : 145 g/km (comb)
-Emission Class : Euro 4
-Emission Label : 4 (Green)
 https://www.autoscout24.com/offers/opel-astra-h-cosmo-twin-top-gasoline-beige-e79f8dc7-017f-45ee-beb8-e15859dbfe23?cldtidx=1&cldtsrc=listPage&searchId=1964176808
 name : Opel Astra
 variant : H "Cosmo" Twin Top
@@ -10139,40 +9850,6 @@ ConsumptionYou can obtain more information on the official fuel consumption and 
 CO2 EmissionYou can obtain more information on the official fuel consumption and official specific CO2 emissions of new passenger vehicles from the guideline on fuel consumption and CO2 emissions of new passenger vehicles. This guideline is available free of charge at all dealerships and from Deutsche Automobil Treuhand GmbH at www.dat.de. : 164 g/km (comb)
 Emission Class : Euro 4
 Emission Label : 4 (Green)
-https://www.autoscout24.com/offers/renault-megane-ii-grandtour-avantage-1-6-16v-keyless-klima-cd-mp3-gasoline-red-f3aebbaa-6313-45cf-b801-7213c1449e96?cldtidx=1&cldtsrc=listPage&searchId=1964176808
-name : Renault Megane
-variant : II Grandtour Avantage 1.6 16V Keyless Klima CD MP3
-price : € 4,890.-
-mileage : 30000
-first registration : 05/2009
-horse power : 111
-Type : Used
-Previous Owners : 3
-Next Inspection : 10/2022
-Make : Renault
-Model : Megane
-Offer Number : 101
-First Registration : 2009
-Body Color : Red
-Paint Type : Metallic
-Body Color Original : dyna
-Upholstery : Cloth
-Body : Station wagon
-Nr. of Doors : 5
-Nr. of Seats : 5
-Model Code : 3333/AHJ
-Country version : Germany
-Gearing Type : Manual
-Gears : 5
-Displacement : 1,598 cc
-Cylinders : 4
-Fuel : Super 95 / Super E10 95 / Super Plus E10 98
-Other Fuel Types : Super E10 95
-ConsumptionYou can obtain more information on the official fuel consumption and official specific CO2 emissions of new passenger vehicles from the guideline on fuel consumption and CO2 emissions of new passenger vehicles. This guideline is available free of charge at all dealerships and from Deutsche Automobil Treuhand GmbH at www.dat.de. : 7 l/100 km (comb)
-9.3 l/100 km (city)
-5.7 l/100 km (country)
-CO2 EmissionYou can obtain more information on the official fuel consumption and official specific CO2 emissions of new passenger vehicles from the guideline on fuel consumption and CO2 emissions of new passenger vehicles. This guideline is available free of charge at all dealerships and from Deutsche Automobil Treuhand GmbH at www.dat.de. : 166 g/km (comb)
-Emission Class : Euro 4
 https://www.autoscout24.com/offers/mitsubishi-lancer-1-8-cvt-klima-alu-garagenwagen-gasoline-silver-d1756eef-882e-4caf-8cae-0a4d4c8c3260?cldtidx=1&cldtsrc=listPage&searchId=1964176808
 name : Mitsubishi Lancer
 variant : 1.8 CVT Klima, Alu, Garagenwagen
@@ -10231,6 +9908,33 @@ ConsumptionYou can obtain more information on the official fuel consumption and 
 CO2 EmissionYou can obtain more information on the official fuel consumption and official specific CO2 emissions of new passenger vehicles from the guideline on fuel consumption and CO2 emissions of new passenger vehicles. This guideline is available free of charge at all dealerships and from Deutsche Automobil Treuhand GmbH at www.dat.de. : 143 g/km (comb)
 Emission Class : Euro 4
 Emission Label : 4 (Green)
+https://www.autoscout24.com/offers/kia-rio-1-4i-aventura-gasoline-blue-9cb6be7b-0d87-45b7-a7c3-a70393fb5e0f?cldtidx=1&cldtsrc=listPage&searchId=1964176808
+name : Kia Rio
+variant : 1.4i Aventura
+price : € 4,900.-
+mileage : 67000
+first registration : 10/2009
+horse power : 97
+Type : Used
+Make : Kia
+Model : Rio
+Offer Number : 570386
+First Registration : 2009
+Body Color : Blue
+Body : Compact
+Nr. of Doors : 5
+Nr. of Seats : 5
+Gearing Type : Manual
+Gears : 5
+Displacement : 1,399 cc
+Cylinders : 4
+Weight : 1,079 kg
+Drive chain : Front
+Fuel : Regular/Benzine 91
+ConsumptionYou can obtain more information on the official fuel consumption and official specific CO2 emissions of new passenger vehicles from the guideline on fuel consumption and CO2 emissions of new passenger vehicles. This guideline is available free of charge at all dealerships and from Deutsche Automobil Treuhand GmbH at www.dat.de. : 5.9 l/100 km (comb)
+7.9 l/100 km (city)
+5.2 l/100 km (country)
+CO2 EmissionYou can obtain more information on the official fuel consumption and official specific CO2 emissions of new passenger vehicles from the guideline on fuel consumption and CO2 emissions of new passenger vehicles. This guideline is available free of charge at all dealerships and from Deutsche Automobil Treuhand GmbH at www.dat.de. : 139 g/km (comb)
 https://www.autoscout24.com/offers/mercedes-benz-e-320-cdi-t-modell-avantgarde-automatik-airmatic-diesel-black-d64035a4-5806-434e-9d03-eaa732675b22?cldtidx=1&cldtsrc=listPage&searchId=1964176808
 name : Mercedes-Benz E 320
 variant : CDi T-Modell Avantgarde AUTOMATIK*AIRMATIC
@@ -10260,6 +9964,32 @@ ConsumptionYou can obtain more information on the official fuel consumption and 
 CO2 EmissionYou can obtain more information on the official fuel consumption and official specific CO2 emissions of new passenger vehicles from the guideline on fuel consumption and CO2 emissions of new passenger vehicles. This guideline is available free of charge at all dealerships and from Deutsche Automobil Treuhand GmbH at www.dat.de. : 215 g/km (comb)
 Emission Class : Euro 4
 Emission Label : 4 (Green)
+https://www.autoscout24.com/offers/peugeot-108-e-vti-active-stt-gasoline-silver-ae055ff1-6b9a-4a61-ba62-9366b06b28cb?cldtidx=1&cldtsrc=listPage&searchId=1964176808
+name : Peugeot 108
+variant : e-VTi Active STT
+price : € 4,900.-
+mileage : 100754
+first registration : 06/2016
+horse power : 69
+Type : Used
+Warranty : 12 months
+Make : Peugeot
+Model : 108
+First Registration : 2016
+Body Color : Silver
+Upholstery : Other, Black
+Body : Sedans
+Nr. of Doors : 5
+Nr. of Seats : 4
+Gearing Type : Manual
+Gears : 5
+Displacement : 998 cc
+Cylinders : 3
+Weight : 958 kg
+Fuel : Gasoline
+ConsumptionYou can obtain more information on the official fuel consumption and official specific CO2 emissions of new passenger vehicles from the guideline on fuel consumption and CO2 emissions of new passenger vehicles. This guideline is available free of charge at all dealerships and from Deutsche Automobil Treuhand GmbH at www.dat.de. : 3.8 l/100 km (comb)
+CO2 EmissionYou can obtain more information on the official fuel consumption and official specific CO2 emissions of new passenger vehicles from the guideline on fuel consumption and CO2 emissions of new passenger vehicles. This guideline is available free of charge at all dealerships and from Deutsche Automobil Treuhand GmbH at www.dat.de. : 88 g/km (comb)
+Emission Class : Euro 6
 https://www.autoscout24.com/offers/opel-corsa-1-2i-16v-klima-alu-nsw-gasoline-silver-5c530fd5-3b03-4227-9e36-3464af292eeb?cldtidx=1&cldtsrc=listPage&searchId=1964176808
 name : Opel Corsa
 variant : 1.2i 16V Klima Alu NSW
@@ -10742,6 +10472,39 @@ ConsumptionYou can obtain more information on the official fuel consumption and 
 7.1 l/100 km (country)
 CO2 EmissionYou can obtain more information on the official fuel consumption and official specific CO2 emissions of new passenger vehicles from the guideline on fuel consumption and CO2 emissions of new passenger vehicles. This guideline is available free of charge at all dealerships and from Deutsche Automobil Treuhand GmbH at www.dat.de. : 218 g/km (comb)
 Emission Label : 4 (Green)
+https://www.autoscout24.com/offers/seat-mii-reference-1-0-rdc-esp-seitenairb-met-trc-airb-ab-gasoline-blue-4d9efb8a-1c18-4c9b-9eb9-23ad3ad763a0?cldtidx=1&cldtsrc=listPage&searchId=1964176808
+name : SEAT Mii
+variant : Reference 1.0 RDC ESP Seitenairb. met. TRC Airb AB
+price : € 4,980.-
+mileage : 51000
+first registration : 02/2016
+horse power : 60
+Type : Used
+Previous Owners : 1
+Make : SEAT
+Model : Mii
+Offer Number : 19
+First Registration : 2016
+Body Color : Blue
+Paint Type : Metallic
+Body Color Original : blue blueberry
+Upholstery : Cloth
+Body : Sedans
+Nr. of Doors : 3
+Nr. of Seats : 4
+Model Code : 7593/AGN
+Country version : Germany
+Gearing Type : Manual
+Gears : 5
+Displacement : 999 cc
+Cylinders : 3
+Drive chain : Front
+Fuel : Super 95
+ConsumptionYou can obtain more information on the official fuel consumption and official specific CO2 emissions of new passenger vehicles from the guideline on fuel consumption and CO2 emissions of new passenger vehicles. This guideline is available free of charge at all dealerships and from Deutsche Automobil Treuhand GmbH at www.dat.de. : 4.5 l/100 km (comb)
+5.6 l/100 km (city)
+3.9 l/100 km (country)
+CO2 EmissionYou can obtain more information on the official fuel consumption and official specific CO2 emissions of new passenger vehicles from the guideline on fuel consumption and CO2 emissions of new passenger vehicles. This guideline is available free of charge at all dealerships and from Deutsche Automobil Treuhand GmbH at www.dat.de. : 107 g/km (comb)
+Emission Class : Euro 6
 https://www.autoscout24.com/offers/ford-others-cool-sound-edition-sitzheizung-klima-gasoline-black-a68b5860-8c82-411b-b5f7-ee254a2e487e?cldtidx=1&cldtsrc=listPage&searchId=1964176808
 name : Ford
 variant : Cool & Sound Edition*SITZHEIZUNG*KLIMA*
@@ -11027,6 +10790,33 @@ ConsumptionYou can obtain more information on the official fuel consumption and 
 CO2 EmissionYou can obtain more information on the official fuel consumption and official specific CO2 emissions of new passenger vehicles from the guideline on fuel consumption and CO2 emissions of new passenger vehicles. This guideline is available free of charge at all dealerships and from Deutsche Automobil Treuhand GmbH at www.dat.de. : 127 g/km (comb)
 Emission Class : Euro 5
 Emission Label : 4 (Green)
+https://www.autoscout24.com/offers/volvo-v70-kombi-2-0-t-gasoline-d50e62a6-a6b7-4c50-a99d-a12a749de5ed?cldtidx=1&cldtsrc=listPage&searchId=1964176808
+name : Volvo V70
+variant : Kombi 2.0 T
+price : € 4,990.-
+mileage : 100370
+first registration : 07/2002
+horse power : 179
+Type : Used
+Inspection new : Yes
+Full Service : 
+Make : Volvo
+Model : V70
+Offer Number : MH52 5136 GW ASU
+First Registration : 2002
+Paint Type : Metallic
+Upholstery : Part leather, Black
+Body : Station wagon
+Nr. of Doors : 4
+Nr. of Seats : 5
+Gearing Type : Automatic
+Displacement : 1,984 cc
+Fuel : Regular/Benzine 91
+ConsumptionYou can obtain more information on the official fuel consumption and official specific CO2 emissions of new passenger vehicles from the guideline on fuel consumption and CO2 emissions of new passenger vehicles. This guideline is available free of charge at all dealerships and from Deutsche Automobil Treuhand GmbH at www.dat.de. : 10.4 l/100 km (comb)
+14.8 l/100 km (city)
+7.9 l/100 km (country)
+CO2 EmissionYou can obtain more information on the official fuel consumption and official specific CO2 emissions of new passenger vehicles from the guideline on fuel consumption and CO2 emissions of new passenger vehicles. This guideline is available free of charge at all dealerships and from Deutsche Automobil Treuhand GmbH at www.dat.de. : 248 g/km (comb)
+Emission Class : Euro 3
 https://www.autoscout24.com/offers/skoda-fabia-cool-edition-1-6-tdi-90-ps-klima-radio-cd-diesel-black-46ff7ab7-bc7d-44c4-8187-d882e79b3171?cldtidx=1&cldtsrc=listPage&searchId=1964176808
 name : Skoda Fabia
 variant : Cool Edition 1.6 TDI 90 PS Klima+Radio CD
@@ -11368,6 +11158,42 @@ ConsumptionYou can obtain more information on the official fuel consumption and 
 4.7 l/100 km (country)
 CO2 EmissionYou can obtain more information on the official fuel consumption and official specific CO2 emissions of new passenger vehicles from the guideline on fuel consumption and CO2 emissions of new passenger vehicles. This guideline is available free of charge at all dealerships and from Deutsche Automobil Treuhand GmbH at www.dat.de. : 135 g/km (comb)
 Emission Class : Euro 5
+Emission Label : 4 (Green)
+https://www.autoscout24.com/offers/peugeot-607-3-0-v6-privilege-aus-1-hand-leder-klimaautomatik-gasoline-blue-76125ec5-7b6a-47df-808c-5a176f4731cd?cldtidx=1&cldtsrc=listPage&searchId=1964176808
+name : Peugeot 607
+variant : 3.0 V6 Privilege aus 1.Hand Leder Klimaautomatik
+price : € 4,990.-
+mileage : 104000
+first registration : 04/2001
+horse power : 207
+Type : Used
+Previous Owners : 1
+Next Inspection : 04/2022
+Full Service : 
+Non-smoking Vehicle : 
+Make : Peugeot
+Model : 607
+First Registration : 2001
+Body Color : Blue
+Paint Type : Metallic
+Body Color Original : SEVRUGABLAU
+Upholstery : Full leather, Brown
+Body : Sedans
+Nr. of Doors : 4
+Nr. of Seats : 5
+Model Code : 3003/503
+Country version : Germany
+Gearing Type : Automatic
+Gears : 5
+Displacement : 2,946 cc
+Cylinders : 6
+Weight : 1,635 kg
+Fuel : Gasoline
+ConsumptionYou can obtain more information on the official fuel consumption and official specific CO2 emissions of new passenger vehicles from the guideline on fuel consumption and CO2 emissions of new passenger vehicles. This guideline is available free of charge at all dealerships and from Deutsche Automobil Treuhand GmbH at www.dat.de. : 9.9 l/100 km (comb)
+14.2 l/100 km (city)
+7.3 l/100 km (country)
+CO2 EmissionYou can obtain more information on the official fuel consumption and official specific CO2 emissions of new passenger vehicles from the guideline on fuel consumption and CO2 emissions of new passenger vehicles. This guideline is available free of charge at all dealerships and from Deutsche Automobil Treuhand GmbH at www.dat.de. : 237 g/km (comb)
+Emission Class : Euro 3
 Emission Label : 4 (Green)
 https://www.autoscout24.com/offers/smart-fortwo-micro-hybrid-drive-52kw-wenig-km-klimaaut-panor-gasoline-silver-ac0b616b-e0e5-4d9a-9fa4-30bc81dd3430?cldtidx=1&cldtsrc=listPage&searchId=1964176808
 name : smart forTwo
@@ -11785,33 +11611,6 @@ ConsumptionYou can obtain more information on the official fuel consumption and 
 CO2 EmissionYou can obtain more information on the official fuel consumption and official specific CO2 emissions of new passenger vehicles from the guideline on fuel consumption and CO2 emissions of new passenger vehicles. This guideline is available free of charge at all dealerships and from Deutsche Automobil Treuhand GmbH at www.dat.de. : 239 g/km (comb)
 Emission Class : Euro 3
 Emission Label : 4 (Green)
-https://www.autoscout24.com/offers/volkswagen-passat-cl-gasoline-green-50fa750e-0245-4544-bf12-69001429af8c?cldtidx=1&cldtsrc=listPage&searchId=1964176808
-name : Volkswagen Passat
-variant : CL
-price : € 4,990.-
-mileage : 99819
-first registration : 08/1987
-horse power : 72
-Type : Used
-Next Inspection : 04/2021
-Make : Volkswagen
-Model : Passat
-Offer Number : E007272
-First Registration : 1987
-Body Color : Green
-Paint Type : Metallic
-Body Color Original : Grün
-Upholstery : Other, Grey
-Body : Sedans
-Nr. of Doors : 4
-Nr. of Seats : 5
-Model Code : 0600/683
-Country version : Germany
-Gearing Type : Manual
-Displacement : 1,576 cc
-Fuel : Super 95
-Emission Class : Euro 2
-Emission Label : 4 (Green)
 https://www.autoscout24.com/offers/mazda-6-mazda-6-2-2l-d-nur-an-haendler-oder-export-diesel-grey-e2d5a81e-f907-440c-917e-e32c30e0ccd6?cldtidx=1&cldtsrc=listPage&searchId=1964176808
 name : Mazda 6
 variant : Mazda 6 2.2L D / nur an Händler oder Export
@@ -12094,4 +11893,214 @@ ConsumptionYou can obtain more information on the official fuel consumption and 
 4.3 l/100 km (country)
 CO2 EmissionYou can obtain more information on the official fuel consumption and official specific CO2 emissions of new passenger vehicles from the guideline on fuel consumption and CO2 emissions of new passenger vehicles. This guideline is available free of charge at all dealerships and from Deutsche Automobil Treuhand GmbH at www.dat.de. : 129 g/km (comb)
 Emission Class : Euro 4
+Emission Label : 4 (Green)
+https://www.autoscout24.com/offers/renault-espace-iv-privilege-bi-xenon-klimaauto-6-sitzer-diesel-grey-5079ba40-e862-45ee-87bb-48322ead61b3?cldtidx=1&cldtsrc=listPage&searchId=1964176808
+name : Renault Espace
+variant : IV Privilege BI-XENON KLIMAAUTO 6-SITZER
+price : € 4,999.-
+mileage : 179000
+first registration : 04/2008
+horse power : 173
+Type : Used
+Previous Owners : 2
+Next Inspection : 12/2021
+Full Service : 
+Make : Renault
+Model : Espace
+Offer Number : 3785
+First Registration : 2008
+Body Color : Grey
+Paint Type : Metallic
+Body Color Original : GRAU ECLIPSE
+Upholstery : Full leather, Black
+Body : Van
+Nr. of Doors : 4
+Nr. of Seats : 6
+Gearing Type : Manual
+Displacement : 1,995 cc
+Fuel : Diesel
+ConsumptionYou can obtain more information on the official fuel consumption and official specific CO2 emissions of new passenger vehicles from the guideline on fuel consumption and CO2 emissions of new passenger vehicles. This guideline is available free of charge at all dealerships and from Deutsche Automobil Treuhand GmbH at www.dat.de. : 7.6 l/100 km (comb)
+9.5 l/100 km (city)
+6.7 l/100 km (country)
+CO2 EmissionYou can obtain more information on the official fuel consumption and official specific CO2 emissions of new passenger vehicles from the guideline on fuel consumption and CO2 emissions of new passenger vehicles. This guideline is available free of charge at all dealerships and from Deutsche Automobil Treuhand GmbH at www.dat.de. : 200 g/km (comb)
+Emission Class : Euro 4
+Emission Label : 4 (Green)
+https://www.autoscout24.com/offers/bmw-520-d-touring-xenon-navi-klimaauto-shz-panorama-diesel-black-33f74ed4-ccca-4248-bb5b-42bae9cd7b9e?cldtidx=1&cldtsrc=listPage&searchId=1964176808
+name : BMW 520
+variant : d Touring XENON NAVI KLIMAAUTO SHZ PANORAMA
+price : € 4,999.-
+mileage : 276000
+first registration : 06/2009
+horse power : 177
+Type : Used
+Full Service : 
+Make : BMW
+Model : 520
+Offer Number : 4859
+First Registration : 2009
+Body Color : Black
+Paint Type : Metallic
+Body Color Original : BLACK SAPPHIRE METALLIC
+Upholstery : Full leather, Brown
+Body : Station wagon
+Nr. of Doors : 4
+Nr. of Seats : 5
+Gearing Type : Automatic
+Displacement : 1,995 cc
+Fuel : Diesel
+ConsumptionYou can obtain more information on the official fuel consumption and official specific CO2 emissions of new passenger vehicles from the guideline on fuel consumption and CO2 emissions of new passenger vehicles. This guideline is available free of charge at all dealerships and from Deutsche Automobil Treuhand GmbH at www.dat.de. : 6.3 l/100 km (comb)
+8.5 l/100 km (city)
+5 l/100 km (country)
+CO2 EmissionYou can obtain more information on the official fuel consumption and official specific CO2 emissions of new passenger vehicles from the guideline on fuel consumption and CO2 emissions of new passenger vehicles. This guideline is available free of charge at all dealerships and from Deutsche Automobil Treuhand GmbH at www.dat.de. : 168 g/km (comb)
+Emission Class : Euro 5
+Emission Label : 4 (Green)
+https://www.autoscout24.com/offers/peugeot-boxer-hdi-330-diesel-blue-06c65ff9-d30e-461d-bf8f-5ae6f218ed51?cldtidx=1&cldtsrc=listPage&searchId=1964176808
+name : Peugeot Boxer
+variant : HDi (330)
+price : € 4,999.-
+mileage : 360598
+first registration : 12/2009
+horse power : 120
+Type : Used
+Make : Peugeot
+Model : Boxer
+Offer Number : 1412
+First Registration : 2009
+Body Color : Blue
+Body Color Original : FARBE BLAU IMPERIAL/DECKENDE L
+Upholstery : Other
+Body : Van
+Nr. of Doors : 4
+Model Code : 3003/AEA
+Gearing Type : Manual
+Gears : 6
+Displacement : 2,198 cc
+Cylinders : 4
+Drive chain : Front
+Fuel : Diesel
+ConsumptionYou can obtain more information on the official fuel consumption and official specific CO2 emissions of new passenger vehicles from the guideline on fuel consumption and CO2 emissions of new passenger vehicles. This guideline is available free of charge at all dealerships and from Deutsche Automobil Treuhand GmbH at www.dat.de. : 9.3 l/100 km (comb)
+10.8 l/100 km (city)
+8.4 l/100 km (country)
+CO2 EmissionYou can obtain more information on the official fuel consumption and official specific CO2 emissions of new passenger vehicles from the guideline on fuel consumption and CO2 emissions of new passenger vehicles. This guideline is available free of charge at all dealerships and from Deutsche Automobil Treuhand GmbH at www.dat.de. : 246 g/km (comb)
+Emission Class : Euro 4
+Emission Label : 4 (Green)
+https://www.autoscout24.com/offers/alfa-romeo-mito-1-4-klima-tuev-04-2023-gasoline-black-9b869692-bbbd-4ba5-99a5-979e2f0ec160?cldtidx=1&cldtsrc=listPage&searchId=1964176808
+name : Alfa Romeo MiTo
+variant : 1.4 KLIMA *TÜV 04/2023*
+price : € 4,999.-
+mileage : 95239
+first registration : 01/2010
+horse power : 105
+Type : Used
+Next Inspection : 04/2023
+Make : Alfa Romeo
+Model : MiTo
+Offer Number : EM218034
+First Registration : 2010
+Body Color : Black
+Upholstery : Cloth, Black
+Body : Coupe
+Displacement : 1,368 cc
+Fuel : Super 95
+Emission Class : Euro 5
+Emission Label : 4 (Green)
+https://www.autoscout24.com/offers/toyota-iq-automatik-gasoline-white-321d3562-9d37-4623-9820-63efadf304ae?cldtidx=1&cldtsrc=listPage&searchId=1964176808
+name : Toyota iQ
+variant : Automatik
+price : € 4,999.-
+mileage : 102500
+first registration : 09/2009
+horse power : 68
+Type : Used
+Previous Owners : 1
+Inspection new : Yes
+Full Service : 
+Non-smoking Vehicle : 
+Make : Toyota
+Model : iQ
+Offer Number : 24
+First Registration : 2009
+Body Color : White
+Paint Type : Metallic
+Body Color Original : novaweiß perleffekt
+Upholstery : Cloth, Black
+Body : Compact
+Nr. of Doors : 3
+Nr. of Seats : 4
+Model Code : 5013/AEH
+Country version : Germany
+Gearing Type : Automatic
+Displacement : 998 cc
+Cylinders : 3
+Drive chain : Front
+Fuel : Gasoline
+ConsumptionYou can obtain more information on the official fuel consumption and official specific CO2 emissions of new passenger vehicles from the guideline on fuel consumption and CO2 emissions of new passenger vehicles. This guideline is available free of charge at all dealerships and from Deutsche Automobil Treuhand GmbH at www.dat.de. : 4.7 l/100 km (comb)
+5.7 l/100 km (city)
+4.1 l/100 km (country)
+CO2 EmissionYou can obtain more information on the official fuel consumption and official specific CO2 emissions of new passenger vehicles from the guideline on fuel consumption and CO2 emissions of new passenger vehicles. This guideline is available free of charge at all dealerships and from Deutsche Automobil Treuhand GmbH at www.dat.de. : 110 g/km (comb)
+Emission Class : Euro 4
+Emission Label : 4 (Green)
+https://www.autoscout24.com/offers/volkswagen-golf-6-plus-1-4tsi-122ps-dsg-comfortline-shz-aux-gasoline-silver-4b663673-0eb1-472a-b265-970c88900a7e?cldtidx=1&cldtsrc=listPage&searchId=1964176808
+name : Volkswagen Golf
+variant : 6 Plus 1.4TSI 122PS DSG Comfortline SHZ AUX
+price : € 4,999.-
+mileage : 139231
+first registration : 05/2009
+horse power : 122
+Type : Used
+Previous Owners : 2
+Next Inspection : 01/2021
+Full Service : 
+Make : Volkswagen
+Model : Golf
+Offer Number : 455-K-OG
+First Registration : 2009
+Body Color : Silver
+Paint Type : Metallic
+Body Color Original : Reflexsilber Metallic
+Upholstery : Cloth, Black
+Body : Sedans
+Nr. of Doors : 4
+Nr. of Seats : 5
+Country version : Germany
+Gearing Type : Automatic
+Displacement : 1,390 cc
+Fuel : Regular/Benzine E10 91
+ConsumptionYou can obtain more information on the official fuel consumption and official specific CO2 emissions of new passenger vehicles from the guideline on fuel consumption and CO2 emissions of new passenger vehicles. This guideline is available free of charge at all dealerships and from Deutsche Automobil Treuhand GmbH at www.dat.de. : 6.3 l/100 km (comb)
+8 l/100 km (city)
+5.3 l/100 km (country)
+CO2 EmissionYou can obtain more information on the official fuel consumption and official specific CO2 emissions of new passenger vehicles from the guideline on fuel consumption and CO2 emissions of new passenger vehicles. This guideline is available free of charge at all dealerships and from Deutsche Automobil Treuhand GmbH at www.dat.de. : 146 g/km (comb)
+Emission Class : Euro 5
+Emission Label : 4 (Green)
+https://www.autoscout24.com/offers/volkswagen-golf-plus-golf-6-plus-1-4tsi-122ps-dsg-comfortline-shz-aux-gasoline-silver-773c3d0d-0622-46e0-8b3f-4f632f188f1b?cldtidx=1&cldtsrc=listPage&searchId=1964176808
+name : Volkswagen Golf Plus
+variant : Golf 6 Plus 1.4TSI 122PS DSG Comfortline SHZ AUX
+price : € 4,999.-
+mileage : 139231
+first registration : 05/2009
+horse power : 122
+Type : Used
+Previous Owners : 2
+Next Inspection : 01/2021
+Full Service : 
+Make : Volkswagen
+Model : Golf Plus
+Offer Number : 455-OG
+First Registration : 2009
+Body Color : Silver
+Paint Type : Metallic
+Body Color Original : Reflexsilber Metallic
+Upholstery : Cloth, Black
+Body : Sedans
+Nr. of Doors : 4
+Nr. of Seats : 5
+Country version : Germany
+Gearing Type : Automatic
+Displacement : 1,390 cc
+Fuel : Regular/Benzine E10 91
+ConsumptionYou can obtain more information on the official fuel consumption and official specific CO2 emissions of new passenger vehicles from the guideline on fuel consumption and CO2 emissions of new passenger vehicles. This guideline is available free of charge at all dealerships and from Deutsche Automobil Treuhand GmbH at www.dat.de. : 6.3 l/100 km (comb)
+8 l/100 km (city)
+5.3 l/100 km (country)
+CO2 EmissionYou can obtain more information on the official fuel consumption and official specific CO2 emissions of new passenger vehicles from the guideline on fuel consumption and CO2 emissions of new passenger vehicles. This guideline is available free of charge at all dealerships and from Deutsche Automobil Treuhand GmbH at www.dat.de. : 146 g/km (comb)
+Emission Class : Euro 5
 Emission Label : 4 (Green)

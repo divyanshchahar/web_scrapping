@@ -210,23 +210,56 @@ print("DATA SCRAPPING COMPLETED ON", now.strftime("%d-%B-%Y"), "at", now.strftim
 # CREATING CSV FILE #
 #####################
 
+# CLEANING THE FILE
+
+footer_text = "You can obtain more information on the official fuel consumption and official specific CO2 emissions of new passenger vehicles from the guideline on fuel consumption and CO2 emissions of new passenger vehicles. This guideline is available free of charge at all dealerships and from Deutsche Automobil Treuhand GmbH at www.dat.de."
+
 f_car_details = open("car_details.txt", "r")
 f_content = f_car_details.read()
 car_details = f_content.split("\n")
 car_details.pop(-1)
 
+f_car_details_clean = open("car_details_clean.txt", "w")
+
+for detail in car_details:
+    if "https" in detail:
+        f_car_details_clean.write("url_address : " + detail + "\n")
+
+    elif footer_text in detail:
+        a = detail.split("You")[0]
+        b = detail.split(" : ")[1]
+        f_car_details_clean.write(a + " : " + b + "\n")
+
+    elif "(city)" in detail:
+        f_car_details_clean.write("consumption_city" + " : " + detail + "\n")
+
+    elif "(country)" in detail:
+        f_car_details_clean.write("consumption_country" + " : " + detail + "\n")
+
+    else:
+        f_car_details_clean.write(detail + "\n")
+
+f_car_details.close()
+f_car_details_clean.close()
+
+# GENERATING THE DATABASE FROM THE CLEANED FILE
+
+f_car_details_clean = open("car_details_clean.txt", "r")
+f_content_clean = f_car_details_clean.read()
+car_details_clean = f_content_clean.split("\n")
+car_details_clean.pop(-1)
+
 footer_text = "You can obtain more information on the official fuel consumption and official specific CO2 emissions of new passenger vehicles from the guideline on fuel consumption and CO2 emissions of new passenger vehicles. This guideline is available free of charge at all dealerships and from Deutsche Automobil Treuhand GmbH at www.dat.de."
 
 unique_attributes = [] # List to hold attributes
 
-
 # Loop to extract attributes from text file
-for detail in car_details:
+for detail in car_details_clean:
 
-    if "https" in detail:
-        pass
+    if "url_address" in detail:
+        unique_attributes.append("url_address")
 
-    if ((("https" in detail) == False) & (" : " in detail)):
+    if ((("url_address" in detail) == False) & (" : " in detail)):
         unique_attributes.append((detail.split(" : ")[0]))
 
 unique_attributes = set(unique_attributes) # set of unique attributes
@@ -238,20 +271,21 @@ for x in unique_attributes:
     final_dict[x] = []
 
 # Loop to extract data from text file and populate final_dict
-for i in range(0, len(car_details)):
+for i in range(0, len(car_details_clean)):
 
     # Checking if the current line is a link
-    if "https" in car_details[i]:
+    if "url_address" in car_details_clean[i]:
         my_dict = {}
+        my_dict[car_details_clean[i].split(" : ")[0]] = car_details_clean[i].split(" : ")[1]
 
     # Checking if the the current line is not a link
-    if ((("https" in car_details[i]) == False) & (" : " in car_details[i])):
-        my_dict[car_details[i].split(" : ")[0]] = car_details[i].split(" : ")[1]
+    if ((("url_address" in car_details_clean[i]) == False) & (" : " in car_details_clean[i])):
+        my_dict[car_details_clean[i].split(" : ")[0]] = car_details_clean[i].split(" : ")[1]
 
     # checking if it is the end of file (and also if the next line is a link)
-    if i < (len(car_details) - 2):
+    if i < (len(car_details_clean) - 2):
         # checking if the next line is a link
-        if "https" in car_details[i+1]:
+        if "url_address" in car_details_clean[i + 1]:
             # Loop to populate fianl_dict with my_dict
             for attribute in unique_attributes:
                 if attribute in my_dict.keys():
@@ -262,4 +296,17 @@ for i in range(0, len(car_details)):
 
 df = pd.DataFrame(final_dict)
 
-df.to_csv("car_details.csv", index=False)
+# ARRANGING THE COLUMNS IN DESIRED ORDER
+
+# Reading File input_desired_order (file containing desired order of columns)
+f_desired_order = open("input_desired_order.txt", "r")
+content_desired_order = f_desired_order.read()
+desired_order = content_desired_order.split("\n")
+desired_order.pop(-1)
+
+df_clean = pd.DataFrame()
+
+for x in desired_order:
+    df_clean[x] = df[x]
+
+df_clean.to_csv("car_details.csv", index=False)
