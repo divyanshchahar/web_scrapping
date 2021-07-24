@@ -5433,36 +5433,6 @@ consumption_country : 6.1 l/100 km (country)
 CO2 Emission : 179 g/km (comb)
 Emission Class : Euro 5
 Emission Label : 4 (Green)
-url_address : https://www.autoscout24.com/offers/mazda-2-lim-independence-klimaanlage-alu-ahk-gasoline-grey-a92be867-383a-4f73-b1b8-a5a28e75415f?cldtidx=1&cldtsrc=listPage&searchId=1964176808
-name : Mazda 2
-variant : Lim. Independence, Klimaanlage, Alu, AHK
-price : € 3,180.-
-mileage : 110252
-first registration : 01/2010
-horse power : 86
-Type : Used
-Previous Owners : 3
-Next Inspection : 05/2023
-Make : Mazda
-Model : 2
-Offer Number : Renpening 15 NOH
-First Registration : 2010
-Body Color : Grey
-Paint Type : Metallic
-Body Color Original : Kronosgrau Metallic
-Upholstery : Cloth, Black
-Body : Compact
-Nr. of Doors : 4
-Nr. of Seats : 5
-Gearing Type : Manual
-Displacement : 1,349 cc
-Fuel : Regular/Benzine 91
-Consumption : 5.4 l/100 km (comb)
-consumption_city : 6.9 l/100 km (city)
-consumption_country : 4.6 l/100 km (country)
-CO2 Emission : 128 g/km (comb)
-Emission Class : Euro 4
-Emission Label : 4 (Green)
 url_address : https://www.autoscout24.com/offers/peugeot-207-1-6-hdi-urban-99g-fap-diesel-grey-79b84a30-b863-44cf-9de6-1ca19824c201?cldtidx=1&cldtsrc=listPage&searchId=1964176808
 name : Peugeot 207
 variant : 1.6 HDi Urban 99g FAP
@@ -10290,35 +10260,12 @@ consumption_country : 5.9 l/100 km (country)
 CO2 Emission : 194 g/km (comb)
 Emission Class : Euro 4
 url_address : https://www.autoscout24.com/offers/volkswagen-jetta-zeer-goed-verzorgde-wagen-met-garantie-diesel-black-0140cd61-0118-4cf2-b240-77a7b69bb350?cldtidx=1&cldtsrc=listPage&searchId=1964176808
-name : Volkswagen Jetta
-variant : zeer goed verzorgde wagen met garantie
-price : € 4,950.-
-mileage : 160000
-first registration : 07/2008
-horse power : 105
-Type : Used
-Make : Volkswagen
-Model : Jetta
-First Registration : 2008
-Body Color : Black
-Paint Type : Metallic
-Upholstery : Cloth, Black
-Body : Sedans
-Nr. of Doors : 4
-Nr. of Seats : 5
-Country version : Belgium
-Gearing Type : Manual
-Gears : 5
-Displacement : 1,896 cc
-Cylinders : 4
-Weight : 1,345 kg
-Drive chain : Front
-Fuel : Diesel
-Consumption : 5.2 l/100 km (comb)
-consumption_city : 6.7 l/100 km (city)
-consumption_country : 4.4 l/100 km (country)
-CO2 Emission : 138 g/km (comb)
-Emission Class : Euro 4
+name : 
+variant : 
+price : 
+mileage : 
+first registration : 
+horse power : 
 url_address : https://www.autoscout24.com/offers/mini-one-cabrio-mini-one-cabrio-pdc-leder-alu-shz-nur-export-gasoline-black-accb8212-3d04-47ed-befe-54318e7efe54?cldtidx=1&cldtsrc=listPage&searchId=1964176808
 name : MINI One Cabrio
 variant : Mini One Cabrio*PDC*Leder*Alu*SHZ*nur EXPORT!!!!
@@ -12103,4 +12050,36 @@ consumption_city : 8 l/100 km (city)
 consumption_country : 5.3 l/100 km (country)
 CO2 Emission : 146 g/km (comb)
 Emission Class : Euro 5
+Emission Label : 4 (Green)
+url_address : https://www.autoscout24.com/offers/volkswagen-golf-5-1-6-fsi-116-ps-5-limo-trendline-klima-shz-gasoline-blue-414052b9-f41a-4e68-914f-1b6081755824?cldtidx=1&cldtsrc=listPage&searchId=1964176808
+name : Volkswagen Golf
+variant : 5 1.6 FSI 116 PS 5 Limo Trendline Klima SHZ
+price : € 4,999.-
+mileage : 124884
+first registration : 12/2003
+horse power : 116
+Type : Used
+Previous Owners : 2
+Inspection new : Yes
+Make : Volkswagen
+Model : Golf
+Offer Number : 290
+First Registration : 2003
+Body Color : Blue
+Paint Type : Metallic
+Body Color Original : coastalblue perleffekt
+Upholstery : Cloth, Black
+Body : Sedans
+Nr. of Doors : 4
+Nr. of Seats : 5
+Model Code : 0603/ADP
+Country version : Germany
+Gearing Type : Manual
+Displacement : 1,598 cc
+Fuel : Regular/Benzine E10 91
+Consumption : 7 l/100 km (comb)
+consumption_city : 9.2 l/100 km (city)
+consumption_country : 5.7 l/100 km (country)
+CO2 Emission : 168 g/km (comb)
+Emission Class : Euro 4
 Emission Label : 4 (Green)

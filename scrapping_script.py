@@ -7,15 +7,19 @@ import pandas as pd
 now = datetime.now()
 print("EXECUTION STARTED ON ", now.strftime("%d-%B-%Y"), "at", now.strftime("%H:%M:%S"), "\n")
 
-# Reading Essential data from website.txt
-f_website = open("website.txt", "r")
-f_website_content = f_website.readlines()
+# Reading Essential data from input_website.txt
+f_input_website = open("input_website.txt", "r")
+content_input_website = f_input_website.readlines()
+f_input_website.close()
 
-basic_url = f_website_content[0].split("page=")[0] + "page=" # First half of URL
-url_extension = f_website_content[0].split("page=1")[1] # Second half of URL
+basic_url = content_input_website[0].split("page=")[0] + "page=" # First half of URL
+url_extension = content_input_website[0].split("page=1")[1] # Second half of URL
 
-page_num = list(range(1, int(f_website_content[1])+1)) # List containing page numbers
+page_num = list(range(1, int(content_input_website[1]) + 1)) # List containing page numbers
 
+########################
+# EXTRACTING SEARCH ID #
+########################
 
 page_url = basic_url + str(page_num[0]) + url_extension # Creating URL of the page
 
@@ -36,7 +40,7 @@ print("Search id Successuffly extracted on", now.strftime("%d-%B-%Y"), "at", now
 now = datetime.now()
 print("URL EXTRACTION STARTED ON ", now.strftime("%d-%B-%Y"), "at", now.strftime("%H:%M:%S"))
 
-f_all_urls = open("urls.txt", "w")
+f_urls = open("urls.txt", "w")
 
 for p in page_num:
 
@@ -49,14 +53,13 @@ for p in page_num:
     for parent_obj in parsed_code.find_all("div", class_="cl-list-element cl-list-element-gap"):
 
         link_url = parent_obj.find("a", href=True)["href"] # Partial address of the car
-
         final_url = "https://www.autoscout24.com" + link_url + "?cldtidx=1&cldtsrc=listPage&searchId=" + str(sid) # Complete Address of the car
 
-        f_all_urls.write(final_url + "\n") # Writing results to a file
+        f_urls.write(final_url + "\n") # Writing results to a file
 
     print("Completed pages ", p, "out of ", page_num[-1])
 
-f_all_urls.close()
+f_urls.close()
 
 now = datetime.now()
 print("URL EXTRACTION COMPLETE  ON", now.strftime("%d-%B-%Y"), "at", now.strftime("%H:%M:%S"), "\n")
@@ -66,32 +69,25 @@ print("URL EXTRACTION COMPLETE  ON", now.strftime("%d-%B-%Y"), "at", now.strftim
 ###################
 
 now = datetime.now()
-print("DATA SCRAPPING STARTED ON", now.strftime("%d-%B-%Y"), "at", now.strftime("%H:%M:%S"), "\n")
+print("DATA SCRAPPING STARTED ON", now.strftime("%d-%B-%Y"), "at", now.strftime("%H:%M:%S"))
 
-f_all_urls = open("urls.txt", "r") # File Object for the urls file
-content_all_urls = f_all_urls.read() # Reading content form the file
-url_items = content_all_urls.split("\n") # Splitting into different urls by line ending
-url_items.pop(-1) # Removing last line(because it is blank)
+f_urls = open("urls.txt", "r") # File Object for the urls file
+content_urls = f_urls.read() # Reading content form the file
+urls = content_urls.split("\n") # Splitting into different urls by line ending
+urls.pop(-1) # Removing last line(because it is blank)
 
-f_attributes_data = open("car_details.txt", "w")
+f_car_details = open("car_details.txt", "w")
 
-attributes1 = ["price", "car name", "variant", "mileage", "first registration", "horse power"] # List of attributes
+global_attributes = ["price", "car name", "variant", "mileage", "first registration", "horse power"] # List of global attributes
 
-temp1 = [] # First list to hold values of attributes, same for all page (attributes1)
-temp2 = [] # Second list to hold value of attibutes, different for different pages(attributes2)
-
-# Loop to initialize first list
-for i in range(0, len(attributes1)):
-    temp1.append([])
-
-counter = 1
+counter = 1 # Counter to count the number of urls sucessfully scrapped
 
 # LOOP TO ITERATE THROUGH URLs
-for page_url in url_items:
+for page_url in urls:
 
-    print(counter, "out of ", len(url_items))
+    print(counter, "out of ", len(urls))
 
-    f_attributes_data.write(page_url + "\n") # Writing page url to file
+    f_car_details.write(page_url + "\n") # Writing page url to file
 
     code_url = requests.get(page_url).text # HTML code of the page
     parsed_code = BeautifulSoup(code_url, "lxml") # parsed HTML code of the page
@@ -120,23 +116,22 @@ for page_url in url_items:
     # vehicle name
     try:
         vehicle_name = parent_obj.find("span", class_="cldt-detail-makemodel sc-ellipsis").text
-        f_attributes_data.write("name : " + vehicle_name + "\n")
+        f_car_details.write("name : " + vehicle_name + "\n")
     except:
         print("Unable to extract vehicle name")
-        f_attributes_data.write("name : " + "\n")
+        f_car_details.write("name : " + "\n")
 
     # vehicle variant
     try:
         vehicle_variant = parent_obj.find("span", class_="cldt-detail-version sc-ellipsis").text
-        f_attributes_data.write("variant : " + vehicle_variant + "\n")
+        f_car_details.write("variant : " + vehicle_variant + "\n")
     except:
         print("Unable to extract vehicle variant")
-        f_attributes_data.write("variant : " + "\n")
+        f_car_details.write("variant : " + "\n")
 
-    f_attributes_data.write("price : " + price + "\n")  # writing price to the file
+    f_car_details.write("price : " + price + "\n")  # writing price to the file
 
     # EXTRACTING MILEAGE, FIRST REGISTRATION, HORSE POWER
-
     # parent object for mileage, first registration and horse power
     try:
         parent_obj = parsed_code.find("div", class_="cldt-stage-basic-data")
@@ -146,36 +141,36 @@ for page_url in url_items:
     # mileage
     try:
         mileage = parent_obj.find("span", class_="sc-font-l cldt-stage-primary-keyfact").text.replace(",", "").split()[0]
-        f_attributes_data.write("mileage : " + mileage + "\n")
+        f_car_details.write("mileage : " + mileage + "\n")
     except:
         print("Unable to extract mileage")
-        f_attributes_data.write("mileage : " + "\n")
+        f_car_details.write("mileage : " + "\n")
 
     # first registration
     try:
         first_registration = parent_obj.find("span", class_="sc-font-l cldt-stage-primary-keyfact", attrs={"id":"basicDataFirstRegistrationValue"}).text
-        f_attributes_data.write("first registration : " + first_registration + "\n")
+        f_car_details.write("first registration : " + first_registration + "\n")
     except:
         print("Unable to extract first registration date")
-        f_attributes_data.write("first registration : " + "\n")
+        f_car_details.write("first registration : " + "\n")
 
     # horse power
     try:
         horse_power = parent_obj.find("span", class_="sc-font-m cldt-stage-primary-keyfact").text.split()[0]
-        f_attributes_data.write("horse power : " + horse_power + "\n")
+        f_car_details.write("horse power : " + horse_power + "\n")
     except:
         print("Unable to extract horse power")
-        f_attributes_data.write("horse power : " + "\n")
+        f_car_details.write("horse power : " + "\n")
 
     # EXTRACTING ATTRIBUTES AND ATTRIBUTE VALUES ON THE PAGE
-
+    # parent object for attributes and attribute values
     try:
         parent_obj = parsed_code.find("div", class_="cldt-item", attrs={"data-item-name":"car-details"}) # parent object containing all other attributes
     except:
         print("Unable to extract parent object for other attributes")
 
-    page_attributes = []
-    page_attribute_features = []
+    page_attributes = [] # List to hold attributes on the page
+    page_attribute_features = [] # List to hold value of attributes on the page
 
     # Extracting Attributes on page
     try:
@@ -194,14 +189,14 @@ for page_url in url_items:
     # writing values in the file
     if (len(page_attribute_features) == len(page_attributes)):
         for i in range(0, len(page_attributes)):
-            f_attributes_data.write(str(page_attributes[i]) + " : " + str(page_attribute_features[i] + "\n"))
+            f_car_details.write(str(page_attributes[i]) + " : " + str(page_attribute_features[i] + "\n"))
     else:
-        f_attributes_data.write("FALSE" + "\n")
+        f_car_details.write("FALSE" + "\n")
         print("Attribues and values have different lenghts" + "\n")
 
     counter = counter + 1
 
-f_attributes_data.close()
+f_car_details.close()
 
 now = datetime.now()
 print("DATA SCRAPPING COMPLETED ON", now.strftime("%d-%B-%Y"), "at", now.strftime("%H:%M:%S"), "\n")
@@ -209,6 +204,9 @@ print("DATA SCRAPPING COMPLETED ON", now.strftime("%d-%B-%Y"), "at", now.strftim
 #####################
 # CREATING CSV FILE #
 #####################
+
+now = datetime.now()
+print("CSV CREATION STARED ON", now.strftime("%d-%B-%Y"), "at", now.strftime("%H:%M:%S"))
 
 # CLEANING THE FILE
 
@@ -310,3 +308,9 @@ for x in desired_order:
     df_clean[x] = df[x]
 
 df_clean.to_csv("car_details.csv", index=False)
+
+now = datetime.now()
+print("SUCCESSFULLY CREATED CSV ON", now.strftime("%d-%B-%Y"), "at", now.strftime("%H:%M:%S"), "\n")
+
+now = datetime.now()
+print("PROGRAM EXECUTION COMPLETED ON", now.strftime("%d-%B-%Y"), "at", now.strftime("%H:%M:%S"), "\n")
