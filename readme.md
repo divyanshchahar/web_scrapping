@@ -39,7 +39,6 @@ ___
 # How to use this script
 
 In order to use this script please follow the following steps:
-- Install the packages in <mark><i>requirements.txt</i></mark>
 - Edit <mark><i>input_website.txt</i></mark> :
   - The first line should containt the url of the page (note*: This script can only scrape https://www.autoscout24.com)
   - The second line should contain the page number of the last page of the search results
