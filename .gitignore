@@ -7,3 +7,7 @@ webscrapper.py
 urls.txt
 car_details_clean.txt
 car_details.txt
+screenshots
+*.docx
+*.pdf
+*.svg
